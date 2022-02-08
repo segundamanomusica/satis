@@ -1,0 +1,424 @@
+{
+    "packages": {
+        "sahassar/boltredirector": [
+            {
+                "name": "sahassar/boltredirector",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/LulububuApps/boltredirector.git",
+                    "reference": "84c3d41c0a773d070345530991caa38bece33bdb"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/LulububuApps/boltredirector/zipball/84c3d41c0a773d070345530991caa38bece33bdb",
+                    "reference": "84c3d41c0a773d070345530991caa38bece33bdb",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": ">=2.0.0,<3.0.0"
+                },
+                "time": "2014-08-30T11:46:43+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0.*"
+                    }
+                },
+                "autoload": {
+                    "files": [
+                        "init.php"
+                    ],
+                    "psr-4": {
+                        "Bolt\\Extension\\FoundryCode\\": ""
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Mike Anthony",
+                        "email": "code@foundrybusiness.co.za"
+                    }
+                ],
+                "description": "Easily manage 301 redirects; useful for migrating from another platform.",
+                "keywords": [
+                    "301",
+                    "migration",
+                    "redirect"
+                ],
+                "support": {
+                    "source": "https://github.com/LulububuApps/boltredirector/tree/1.0.0",
+                    "issues": "https://github.com/LulububuApps/boltredirector/issues"
+                }
+            },
+            {
+                "name": "sahassar/boltredirector",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/LulububuApps/boltredirector.git",
+                    "reference": "e64f56570f4e63455fa8c16bd32e76513fa2656f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/LulububuApps/boltredirector/zipball/e64f56570f4e63455fa8c16bd32e76513fa2656f",
+                    "reference": "e64f56570f4e63455fa8c16bd32e76513fa2656f",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": ">=2.0.0,<3.0.0"
+                },
+                "time": "2014-11-01T05:25:01+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0.*"
+                    }
+                },
+                "autoload": {
+                    "files": [
+                        "init.php"
+                    ],
+                    "psr-4": {
+                        "Bolt\\Extension\\FoundryCode\\": ""
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Mike Anthony",
+                        "email": "code@foundrybusiness.co.za"
+                    }
+                ],
+                "description": "Easily manage 301 redirects; useful for migrating from another platform.",
+                "keywords": [
+                    "301",
+                    "migration",
+                    "redirect"
+                ],
+                "support": {
+                    "source": "https://github.com/LulububuApps/boltredirector/tree/1.0.1",
+                    "issues": "https://github.com/LulububuApps/boltredirector/issues"
+                }
+            },
+            {
+                "name": "sahassar/boltredirector",
+                "version": "2.0.0",
+                "version_normalized": "2.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/LulububuApps/boltredirector.git",
+                    "reference": "caaddf4cfbc376a9dfe501b9f8601890ffd2c208"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/LulububuApps/boltredirector/zipball/caaddf4cfbc376a9dfe501b9f8601890ffd2c208",
+                    "reference": "caaddf4cfbc376a9dfe501b9f8601890ffd2c208",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": "^3.0"
+                },
+                "time": "2016-08-06T08:44:23+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-class": "Bolt\\Extension\\Sahassar\\Boltredirector\\BoltredirectorExtension"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Bolt\\Extension\\Sahassar\\Boltredirector\\": "src"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Mike Anthony",
+                        "email": "code@foundrybusiness.co.za"
+                    },
+                    {
+                        "name": "Svante Richter",
+                        "email": "svante.richter@gmail.com"
+                    }
+                ],
+                "description": "Easily manage 301 redirects; useful for migrating from another platform.",
+                "keywords": [
+                    "301",
+                    "migration",
+                    "redirect"
+                ],
+                "support": {
+                    "source": "https://github.com/LulububuApps/boltredirector/tree/2.0.0",
+                    "issues": "https://github.com/LulububuApps/boltredirector/issues"
+                }
+            },
+            {
+                "name": "sahassar/boltredirector",
+                "version": "2.0.0-beta1",
+                "version_normalized": "2.0.0.0-beta1",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/LulububuApps/boltredirector.git",
+                    "reference": "aacd82493ec50f73d981c9f56761bbb417e889c9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/LulububuApps/boltredirector/zipball/aacd82493ec50f73d981c9f56761bbb417e889c9",
+                    "reference": "aacd82493ec50f73d981c9f56761bbb417e889c9",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": "^3.0"
+                },
+                "time": "2016-08-05T13:25:06+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-class": "Bolt\\Extension\\Sahassar\\Boltredirector\\BoltredirectorExtension"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Bolt\\Extension\\Sahassar\\Boltredirector\\": "src"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Mike Anthony",
+                        "email": "code@foundrybusiness.co.za"
+                    },
+                    {
+                        "name": "Svante Richter",
+                        "email": "svante.richter@gmail.com"
+                    }
+                ],
+                "description": "Easily manage 301 redirects; useful for migrating from another platform.",
+                "keywords": [
+                    "301",
+                    "migration",
+                    "redirect"
+                ],
+                "support": {
+                    "source": "https://github.com/LulububuApps/boltredirector/tree/2.0.0-beta1",
+                    "issues": "https://github.com/LulububuApps/boltredirector/issues"
+                }
+            },
+            {
+                "name": "sahassar/boltredirector",
+                "version": "2.0.1",
+                "version_normalized": "2.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/LulububuApps/boltredirector.git",
+                    "reference": "0449e844c069524e36e86b76740b1c5743551cac"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/LulububuApps/boltredirector/zipball/0449e844c069524e36e86b76740b1c5743551cac",
+                    "reference": "0449e844c069524e36e86b76740b1c5743551cac",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": "^3.0"
+                },
+                "time": "2016-09-29T18:42:25+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-class": "Bolt\\Extension\\Sahassar\\Boltredirector\\BoltredirectorExtension"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Bolt\\Extension\\Sahassar\\Boltredirector\\": "src"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Mike Anthony",
+                        "email": "code@foundrybusiness.co.za"
+                    },
+                    {
+                        "name": "Svante Richter",
+                        "email": "svante.richter@gmail.com"
+                    }
+                ],
+                "description": "Easily manage 301 redirects; useful for migrating from another platform.",
+                "keywords": [
+                    "301",
+                    "migration",
+                    "redirect"
+                ],
+                "support": {
+                    "source": "https://github.com/LulububuApps/boltredirector/tree/2.0.1",
+                    "issues": "https://github.com/LulububuApps/boltredirector/issues"
+                }
+            },
+            {
+                "name": "sahassar/boltredirector",
+                "version": "2.0.2",
+                "version_normalized": "2.0.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/LulububuApps/boltredirector.git",
+                    "reference": "3ef9f2b9308a3075f593d1714fdef4cae782c0f6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/LulububuApps/boltredirector/zipball/3ef9f2b9308a3075f593d1714fdef4cae782c0f6",
+                    "reference": "3ef9f2b9308a3075f593d1714fdef4cae782c0f6",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": "^3.0"
+                },
+                "time": "2017-09-21T20:11:49+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-class": "Bolt\\Extension\\Sahassar\\Boltredirector\\BoltredirectorExtension"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Bolt\\Extension\\Sahassar\\Boltredirector\\": "src"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Mike Anthony",
+                        "email": "code@foundrybusiness.co.za"
+                    },
+                    {
+                        "name": "Svante Richter",
+                        "email": "svante.richter@gmail.com"
+                    }
+                ],
+                "description": "Easily manage 301 redirects; useful for migrating from another platform.",
+                "keywords": [
+                    "301",
+                    "migration",
+                    "redirect"
+                ],
+                "support": {
+                    "source": "https://github.com/LulububuApps/boltredirector/tree/2.0.2",
+                    "issues": "https://github.com/LulububuApps/boltredirector/issues"
+                }
+            },
+            {
+                "name": "sahassar/boltredirector",
+                "version": "2.1",
+                "version_normalized": "2.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/LulububuApps/boltredirector.git",
+                    "reference": "84c983605d6da635426f796813c0b9f2d9634c15"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/LulububuApps/boltredirector/zipball/84c983605d6da635426f796813c0b9f2d9634c15",
+                    "reference": "84c983605d6da635426f796813c0b9f2d9634c15",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": "^3.0"
+                },
+                "time": "2017-09-26T20:29:19+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-class": "Bolt\\Extension\\Sahassar\\Boltredirector\\BoltredirectorExtension"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Bolt\\Extension\\Sahassar\\Boltredirector\\": "src"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Mike Anthony",
+                        "email": "code@foundrybusiness.co.za"
+                    },
+                    {
+                        "name": "Svante Richter",
+                        "email": "svante.richter@gmail.com"
+                    }
+                ],
+                "description": "Easily manage 301 redirects; useful for migrating from another platform.",
+                "keywords": [
+                    "301",
+                    "migration",
+                    "redirect"
+                ],
+                "support": {
+                    "source": "https://github.com/LulububuApps/boltredirector/tree/2.1",
+                    "issues": "https://github.com/LulububuApps/boltredirector/issues"
+                }
+            },
+            {
+                "name": "sahassar/boltredirector",
+                "version": "2.1.1",
+                "version_normalized": "2.1.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/LulububuApps/boltredirector.git",
+                    "reference": "cc4e1eade10fdfccb800bc7a08c63b4c92d74d96"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/LulububuApps/boltredirector/zipball/cc4e1eade10fdfccb800bc7a08c63b4c92d74d96",
+                    "reference": "cc4e1eade10fdfccb800bc7a08c63b4c92d74d96",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": "^3.0"
+                },
+                "time": "2019-10-31T15:07:12+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-class": "Bolt\\Extension\\Sahassar\\Boltredirector\\BoltredirectorExtension"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Bolt\\Extension\\Sahassar\\Boltredirector\\": "src"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Mike Anthony",
+                        "email": "code@foundrybusiness.co.za"
+                    },
+                    {
+                        "name": "Svante Richter",
+                        "email": "svante.richter@gmail.com"
+                    }
+                ],
+                "description": "Easily manage 301 redirects; useful for migrating from another platform.",
+                "keywords": [
+                    "301",
+                    "migration",
+                    "redirect"
+                ],
+                "support": {
+                    "source": "https://github.com/LulububuApps/boltredirector/tree/2.1.1",
+                    "issues": "https://github.com/LulububuApps/boltredirector/issues"
+                }
+            }
+        ]
+    }
+}

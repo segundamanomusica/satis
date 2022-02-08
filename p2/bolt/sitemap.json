@@ -1,0 +1,1051 @@
+{
+    "packages": {
+        "bolt/sitemap": [
+            {
+                "name": "bolt/sitemap",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bolt/Sitemap.git",
+                    "reference": "eac7484cc0375cc2f66bb843461a4bb5d50e0266"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bolt/Sitemap/zipball/eac7484cc0375cc2f66bb843461a4bb5d50e0266",
+                    "reference": "eac7484cc0375cc2f66bb843461a4bb5d50e0266",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": ">=2.0.0,<3.0.0"
+                },
+                "time": "2014-11-07T09:40:04+00:00",
+                "type": "bolt-extension",
+                "autoload": {
+                    "files": [
+                        "init.php"
+                    ],
+                    "psr-4": {
+                        "Bolt\\Extension\\Bolt\\Sitemap\\": ""
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Bob den Otter",
+                        "email": "bob@twokings.nl"
+                    },
+                    {
+                        "name": "Patrick van Kouteren",
+                        "email": "info@wedesignit.nl"
+                    }
+                ],
+                "support": {
+                    "source": "https://github.com/bolt/Sitemap/tree/1.0.0",
+                    "issues": "https://github.com/bolt/Sitemap/issues"
+                }
+            },
+            {
+                "name": "bolt/sitemap",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bolt/Sitemap.git",
+                    "reference": "6364116d93012ea6416d160a90e0d287c808c7ae"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bolt/Sitemap/zipball/6364116d93012ea6416d160a90e0d287c808c7ae",
+                    "reference": "6364116d93012ea6416d160a90e0d287c808c7ae",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": ">=2.0.0,<3.0.0"
+                },
+                "time": "2015-03-13T16:35:56+00:00",
+                "type": "bolt-extension",
+                "autoload": {
+                    "files": [
+                        "init.php"
+                    ],
+                    "psr-4": {
+                        "Bolt\\Extension\\Bolt\\Sitemap\\": ""
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Bob den Otter",
+                        "email": "bob@twokings.nl"
+                    },
+                    {
+                        "name": "Patrick van Kouteren",
+                        "email": "info@wedesignit.nl"
+                    }
+                ],
+                "description": "An extension to create XML sitemaps for your Bolt website.",
+                "keywords": [
+                    "SEO",
+                    "sitemap"
+                ],
+                "support": {
+                    "source": "https://github.com/bolt/Sitemap/tree/1.0.1",
+                    "issues": "https://github.com/bolt/Sitemap/issues"
+                }
+            },
+            {
+                "name": "bolt/sitemap",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bolt/Sitemap.git",
+                    "reference": "44a444ef3c0400aa38c157473930aca76f5de5d9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bolt/Sitemap/zipball/44a444ef3c0400aa38c157473930aca76f5de5d9",
+                    "reference": "44a444ef3c0400aa38c157473930aca76f5de5d9",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": ">=2.0.0,<3.0.0"
+                },
+                "time": "2015-03-30T17:58:36+00:00",
+                "type": "bolt-extension",
+                "autoload": {
+                    "files": [
+                        "init.php"
+                    ],
+                    "psr-4": {
+                        "Bolt\\Extension\\Bolt\\Sitemap\\": ""
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Bob den Otter",
+                        "email": "bob@twokings.nl"
+                    },
+                    {
+                        "name": "Patrick van Kouteren",
+                        "email": "info@wedesignit.nl"
+                    }
+                ],
+                "description": "An extension to create XML sitemaps for your Bolt website.",
+                "keywords": [
+                    "SEO",
+                    "sitemap"
+                ],
+                "support": {
+                    "source": "https://github.com/bolt/Sitemap/tree/1.0.2",
+                    "issues": "https://github.com/bolt/Sitemap/issues"
+                }
+            },
+            {
+                "name": "bolt/sitemap",
+                "version": "1.0.3",
+                "version_normalized": "1.0.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bolt/Sitemap.git",
+                    "reference": "604ffe47182ba5d1032cdb6fa48e86672f10c57e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bolt/Sitemap/zipball/604ffe47182ba5d1032cdb6fa48e86672f10c57e",
+                    "reference": "604ffe47182ba5d1032cdb6fa48e86672f10c57e",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": ">=2.0.0,<3.0.0"
+                },
+                "time": "2015-04-21T13:16:35+00:00",
+                "type": "bolt-extension",
+                "autoload": {
+                    "files": [
+                        "init.php"
+                    ],
+                    "psr-4": {
+                        "Bolt\\Extension\\Bolt\\Sitemap\\": ""
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Bob den Otter",
+                        "email": "bob@twokings.nl"
+                    },
+                    {
+                        "name": "Patrick van Kouteren",
+                        "email": "info@wedesignit.nl"
+                    }
+                ],
+                "description": "An extension to create XML sitemaps for your Bolt website.",
+                "keywords": [
+                    "SEO",
+                    "sitemap"
+                ],
+                "support": {
+                    "source": "https://github.com/bolt/Sitemap/tree/1.0.3",
+                    "issues": "https://github.com/bolt/Sitemap/issues"
+                }
+            },
+            {
+                "name": "bolt/sitemap",
+                "version": "1.0.4",
+                "version_normalized": "1.0.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bolt/Sitemap.git",
+                    "reference": "b0628ab7bf0e700b8e23603ec0f5dad7a2147bdb"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bolt/Sitemap/zipball/b0628ab7bf0e700b8e23603ec0f5dad7a2147bdb",
+                    "reference": "b0628ab7bf0e700b8e23603ec0f5dad7a2147bdb",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": ">=2.0.0,<3.0.0"
+                },
+                "time": "2015-09-12T11:20:30+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-icon": "assets/icon-sitemap.png"
+                },
+                "autoload": {
+                    "files": [
+                        "init.php"
+                    ],
+                    "psr-4": {
+                        "Bolt\\Extension\\Bolt\\Sitemap\\": ""
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Bob den Otter",
+                        "email": "bob@twokings.nl"
+                    },
+                    {
+                        "name": "Patrick van Kouteren",
+                        "email": "info@wedesignit.nl"
+                    }
+                ],
+                "description": "An extension to create XML sitemaps for your Bolt website.",
+                "keywords": [
+                    "SEO",
+                    "sitemap"
+                ],
+                "support": {
+                    "source": "https://github.com/bolt/Sitemap/tree/1.0.4",
+                    "issues": "https://github.com/bolt/Sitemap/issues"
+                }
+            },
+            {
+                "name": "bolt/sitemap",
+                "version": "1.0.5",
+                "version_normalized": "1.0.5.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bolt/Sitemap.git",
+                    "reference": "8c1e250e674431d0bd32d996711eb8462c626af1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bolt/Sitemap/zipball/8c1e250e674431d0bd32d996711eb8462c626af1",
+                    "reference": "8c1e250e674431d0bd32d996711eb8462c626af1",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": ">=2.0.0,<3.0.0"
+                },
+                "time": "2016-01-22T09:57:07+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-icon": "assets/icon-sitemap.png"
+                },
+                "autoload": {
+                    "files": [
+                        "init.php"
+                    ],
+                    "psr-4": {
+                        "Bolt\\Extension\\Bolt\\Sitemap\\": ""
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Bob den Otter",
+                        "email": "bob@twokings.nl"
+                    },
+                    {
+                        "name": "Patrick van Kouteren",
+                        "email": "info@wedesignit.nl"
+                    }
+                ],
+                "description": "An extension to create XML sitemaps for your Bolt website.",
+                "keywords": [
+                    "SEO",
+                    "sitemap"
+                ],
+                "support": {
+                    "source": "https://github.com/bolt/Sitemap/tree/1.0.5",
+                    "issues": "https://github.com/bolt/Sitemap/issues"
+                }
+            },
+            {
+                "name": "bolt/sitemap",
+                "version": "1.0.6",
+                "version_normalized": "1.0.6.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bolt/Sitemap.git",
+                    "reference": "80408a9917fef566bcaab3e384cc34477651fb90"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bolt/Sitemap/zipball/80408a9917fef566bcaab3e384cc34477651fb90",
+                    "reference": "80408a9917fef566bcaab3e384cc34477651fb90",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": ">=2.0.0,<3.0.0"
+                },
+                "time": "2016-04-30T16:43:40+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-icon": "assets/icon-sitemap.png"
+                },
+                "autoload": {
+                    "files": [
+                        "init.php"
+                    ],
+                    "psr-4": {
+                        "Bolt\\Extension\\Bolt\\Sitemap\\": ""
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Bob den Otter",
+                        "email": "bob@twokings.nl"
+                    },
+                    {
+                        "name": "Patrick van Kouteren",
+                        "email": "info@wedesignit.nl"
+                    }
+                ],
+                "description": "An extension to create XML sitemaps for your Bolt website.",
+                "keywords": [
+                    "SEO",
+                    "sitemap"
+                ],
+                "support": {
+                    "source": "https://github.com/bolt/Sitemap/tree/1.0.6",
+                    "issues": "https://github.com/bolt/Sitemap/issues"
+                }
+            },
+            {
+                "name": "bolt/sitemap",
+                "version": "2.0.0",
+                "version_normalized": "2.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bolt/Sitemap.git",
+                    "reference": "9cf8008260989b68d85986156ecc681c56bd52c4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bolt/Sitemap/zipball/9cf8008260989b68d85986156ecc681c56bd52c4",
+                    "reference": "9cf8008260989b68d85986156ecc681c56bd52c4",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": "^3.0"
+                },
+                "time": "2016-05-28T11:47:51+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-icon": "icon-sitemap.png",
+                    "bolt-class": "Bolt\\Extension\\Bolt\\Sitemap\\SitemapExtension"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Bolt\\Extension\\Bolt\\Sitemap\\": "src"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Bob den Otter",
+                        "email": "bob@twokings.nl"
+                    },
+                    {
+                        "name": "Patrick van Kouteren",
+                        "email": "info@wedesignit.nl"
+                    },
+                    {
+                        "name": "Gawain Lynch",
+                        "email": "gawain.lynch@gmail.com"
+                    }
+                ],
+                "description": "An extension to create XML sitemaps for your Bolt website.",
+                "keywords": [
+                    "SEO",
+                    "sitemap"
+                ],
+                "support": {
+                    "source": "https://github.com/bolt/Sitemap/tree/2.0.0",
+                    "issues": "https://github.com/bolt/Sitemap/issues"
+                }
+            },
+            {
+                "name": "bolt/sitemap",
+                "version": "2.0.1",
+                "version_normalized": "2.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bolt/Sitemap.git",
+                    "reference": "d321e61e04d2fe2e825352f1378b4ec12109b74d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bolt/Sitemap/zipball/d321e61e04d2fe2e825352f1378b4ec12109b74d",
+                    "reference": "d321e61e04d2fe2e825352f1378b4ec12109b74d",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": "^3.0"
+                },
+                "time": "2016-08-01T10:19:10+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-icon": "icon-sitemap.png",
+                    "bolt-class": "Bolt\\Extension\\Bolt\\Sitemap\\SitemapExtension"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Bolt\\Extension\\Bolt\\Sitemap\\": "src"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Bob den Otter",
+                        "email": "bob@twokings.nl"
+                    },
+                    {
+                        "name": "Patrick van Kouteren",
+                        "email": "info@wedesignit.nl"
+                    },
+                    {
+                        "name": "Gawain Lynch",
+                        "email": "gawain.lynch@gmail.com"
+                    }
+                ],
+                "description": "An extension to create XML sitemaps for your Bolt website.",
+                "keywords": [
+                    "SEO",
+                    "sitemap"
+                ],
+                "support": {
+                    "source": "https://github.com/bolt/Sitemap/tree/2.0.1",
+                    "issues": "https://github.com/bolt/Sitemap/issues"
+                }
+            },
+            {
+                "name": "bolt/sitemap",
+                "version": "2.1.0",
+                "version_normalized": "2.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bolt/Sitemap.git",
+                    "reference": "5867c9a0d86ea0de21e2c910b5f0fe40c1db15e1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bolt/Sitemap/zipball/5867c9a0d86ea0de21e2c910b5f0fe40c1db15e1",
+                    "reference": "5867c9a0d86ea0de21e2c910b5f0fe40c1db15e1",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": "^3.0"
+                },
+                "time": "2017-02-26T13:59:52+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-icon": "icon-sitemap.png",
+                    "bolt-class": "Bolt\\Extension\\Bolt\\Sitemap\\SitemapExtension"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Bolt\\Extension\\Bolt\\Sitemap\\": "src"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Bob den Otter",
+                        "email": "bob@twokings.nl"
+                    },
+                    {
+                        "name": "Patrick van Kouteren",
+                        "email": "info@wedesignit.nl"
+                    },
+                    {
+                        "name": "Gawain Lynch",
+                        "email": "gawain.lynch@gmail.com"
+                    }
+                ],
+                "description": "An extension to create XML sitemaps for your Bolt website.",
+                "keywords": [
+                    "SEO",
+                    "sitemap"
+                ],
+                "support": {
+                    "source": "https://github.com/bolt/Sitemap/tree/2.1.0",
+                    "issues": "https://github.com/bolt/Sitemap/issues"
+                }
+            },
+            {
+                "name": "bolt/sitemap",
+                "version": "2.1.1",
+                "version_normalized": "2.1.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bolt/Sitemap.git",
+                    "reference": "745110b0b29008d5216d608b5b1bf64695a67a2a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bolt/Sitemap/zipball/745110b0b29008d5216d608b5b1bf64695a67a2a",
+                    "reference": "745110b0b29008d5216d608b5b1bf64695a67a2a",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": "^3.0"
+                },
+                "time": "2017-05-04T10:12:13+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-icon": "icon-sitemap.png",
+                    "bolt-class": "Bolt\\Extension\\Bolt\\Sitemap\\SitemapExtension"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Bolt\\Extension\\Bolt\\Sitemap\\": "src"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Bob den Otter",
+                        "email": "bob@twokings.nl"
+                    },
+                    {
+                        "name": "Patrick van Kouteren",
+                        "email": "info@wedesignit.nl"
+                    },
+                    {
+                        "name": "Gawain Lynch",
+                        "email": "gawain.lynch@gmail.com"
+                    }
+                ],
+                "description": "An extension to create XML sitemaps for your Bolt website.",
+                "keywords": [
+                    "SEO",
+                    "sitemap"
+                ],
+                "support": {
+                    "source": "https://github.com/bolt/Sitemap/tree/2.1.1",
+                    "issues": "https://github.com/bolt/Sitemap/issues"
+                }
+            },
+            {
+                "name": "bolt/sitemap",
+                "version": "2.2.0",
+                "version_normalized": "2.2.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bolt/Sitemap.git",
+                    "reference": "6a9b76fd5718787451d41b99dd1d1ffa3b308530"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bolt/Sitemap/zipball/6a9b76fd5718787451d41b99dd1d1ffa3b308530",
+                    "reference": "6a9b76fd5718787451d41b99dd1d1ffa3b308530",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": "^3.0"
+                },
+                "time": "2017-05-11T09:32:22+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-icon": "icon-sitemap.png",
+                    "bolt-class": "Bolt\\Extension\\Bolt\\Sitemap\\SitemapExtension"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Bolt\\Extension\\Bolt\\Sitemap\\": "src"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Bob den Otter",
+                        "email": "bob@twokings.nl"
+                    },
+                    {
+                        "name": "Patrick van Kouteren",
+                        "email": "info@wedesignit.nl"
+                    },
+                    {
+                        "name": "Gawain Lynch",
+                        "email": "gawain.lynch@gmail.com"
+                    }
+                ],
+                "description": "An extension to create XML sitemaps for your Bolt website.",
+                "keywords": [
+                    "SEO",
+                    "sitemap"
+                ],
+                "support": {
+                    "source": "https://github.com/bolt/Sitemap/tree/2.2.0",
+                    "issues": "https://github.com/bolt/Sitemap/issues"
+                }
+            },
+            {
+                "name": "bolt/sitemap",
+                "version": "2.2.1",
+                "version_normalized": "2.2.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bolt/Sitemap.git",
+                    "reference": "4464a917786fa4388c004144e2e570f4f7a6eb1d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bolt/Sitemap/zipball/4464a917786fa4388c004144e2e570f4f7a6eb1d",
+                    "reference": "4464a917786fa4388c004144e2e570f4f7a6eb1d",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": "^3.0"
+                },
+                "time": "2017-06-15T12:37:35+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-icon": "icon-sitemap.png",
+                    "bolt-class": "Bolt\\Extension\\Bolt\\Sitemap\\SitemapExtension"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Bolt\\Extension\\Bolt\\Sitemap\\": "src"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Bob den Otter",
+                        "email": "bob@twokings.nl"
+                    },
+                    {
+                        "name": "Patrick van Kouteren",
+                        "email": "info@wedesignit.nl"
+                    },
+                    {
+                        "name": "Gawain Lynch",
+                        "email": "gawain.lynch@gmail.com"
+                    }
+                ],
+                "description": "An extension to create XML sitemaps for your Bolt website.",
+                "keywords": [
+                    "SEO",
+                    "sitemap"
+                ],
+                "support": {
+                    "source": "https://github.com/bolt/Sitemap/tree/2.2.1",
+                    "issues": "https://github.com/bolt/Sitemap/issues"
+                }
+            },
+            {
+                "name": "bolt/sitemap",
+                "version": "2.2.2",
+                "version_normalized": "2.2.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bolt/Sitemap.git",
+                    "reference": "6fda428f70e2e42828a8e4fe338b7d98670f9a55"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bolt/Sitemap/zipball/6fda428f70e2e42828a8e4fe338b7d98670f9a55",
+                    "reference": "6fda428f70e2e42828a8e4fe338b7d98670f9a55",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": "^3.0"
+                },
+                "time": "2017-06-17T08:18:17+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-icon": "icon-sitemap.png",
+                    "bolt-class": "Bolt\\Extension\\Bolt\\Sitemap\\SitemapExtension"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Bolt\\Extension\\Bolt\\Sitemap\\": "src"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Bob den Otter",
+                        "email": "bob@twokings.nl"
+                    },
+                    {
+                        "name": "Patrick van Kouteren",
+                        "email": "info@wedesignit.nl"
+                    },
+                    {
+                        "name": "Gawain Lynch",
+                        "email": "gawain.lynch@gmail.com"
+                    }
+                ],
+                "description": "An extension to create XML sitemaps for your Bolt website.",
+                "keywords": [
+                    "SEO",
+                    "sitemap"
+                ],
+                "support": {
+                    "source": "https://github.com/bolt/Sitemap/tree/2.2.2",
+                    "issues": "https://github.com/bolt/Sitemap/issues"
+                }
+            },
+            {
+                "name": "bolt/sitemap",
+                "version": "2.2.3",
+                "version_normalized": "2.2.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bolt/Sitemap.git",
+                    "reference": "6f9630daa9d6f8d7f06b2483c2444d780b3ffe7d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bolt/Sitemap/zipball/6f9630daa9d6f8d7f06b2483c2444d780b3ffe7d",
+                    "reference": "6f9630daa9d6f8d7f06b2483c2444d780b3ffe7d",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": "^3.0"
+                },
+                "time": "2017-06-19T12:58:13+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-icon": "icon-sitemap.png",
+                    "bolt-class": "Bolt\\Extension\\Bolt\\Sitemap\\SitemapExtension"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Bolt\\Extension\\Bolt\\Sitemap\\": "src"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Bob den Otter",
+                        "email": "bob@twokings.nl"
+                    },
+                    {
+                        "name": "Patrick van Kouteren",
+                        "email": "info@wedesignit.nl"
+                    },
+                    {
+                        "name": "Gawain Lynch",
+                        "email": "gawain.lynch@gmail.com"
+                    }
+                ],
+                "description": "An extension to create XML sitemaps for your Bolt website.",
+                "keywords": [
+                    "SEO",
+                    "sitemap"
+                ],
+                "support": {
+                    "source": "https://github.com/bolt/Sitemap/tree/2.2.3",
+                    "issues": "https://github.com/bolt/Sitemap/issues"
+                }
+            },
+            {
+                "name": "bolt/sitemap",
+                "version": "2.3.0",
+                "version_normalized": "2.3.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bolt/Sitemap.git",
+                    "reference": "63aaa3df021a4325c66815426b867333f475b308"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bolt/Sitemap/zipball/63aaa3df021a4325c66815426b867333f475b308",
+                    "reference": "63aaa3df021a4325c66815426b867333f475b308",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": "^3.0"
+                },
+                "time": "2018-01-22T09:11:24+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-icon": "icon-sitemap.png",
+                    "bolt-class": "Bolt\\Extension\\Bolt\\Sitemap\\SitemapExtension",
+                    "branch-alias": {
+                        "dev-2.x": "2.3.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Bolt\\Extension\\Bolt\\Sitemap\\": "src"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Bob den Otter",
+                        "email": "bob@twokings.nl"
+                    },
+                    {
+                        "name": "Patrick van Kouteren",
+                        "email": "info@wedesignit.nl"
+                    },
+                    {
+                        "name": "Gawain Lynch",
+                        "email": "gawain.lynch@gmail.com"
+                    }
+                ],
+                "description": "An extension to create XML sitemaps for your Bolt website.",
+                "keywords": [
+                    "SEO",
+                    "sitemap"
+                ],
+                "support": {
+                    "source": "https://github.com/bolt/Sitemap/tree/2.3.0",
+                    "issues": "https://github.com/bolt/Sitemap/issues"
+                }
+            },
+            {
+                "name": "bolt/sitemap",
+                "version": "2.4.0",
+                "version_normalized": "2.4.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bolt/Sitemap.git",
+                    "reference": "6559117ae4c53441d433ccfdda3e2d34e1a12492"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bolt/Sitemap/zipball/6559117ae4c53441d433ccfdda3e2d34e1a12492",
+                    "reference": "6559117ae4c53441d433ccfdda3e2d34e1a12492",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": "^3.0"
+                },
+                "time": "2018-03-15T19:00:47+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-icon": "icon-sitemap.png",
+                    "bolt-class": "Bolt\\Extension\\Bolt\\Sitemap\\SitemapExtension",
+                    "branch-alias": {
+                        "dev-2.x": "2.3.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Bolt\\Extension\\Bolt\\Sitemap\\": "src"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Bob den Otter",
+                        "email": "bob@twokings.nl"
+                    },
+                    {
+                        "name": "Patrick van Kouteren",
+                        "email": "info@wedesignit.nl"
+                    },
+                    {
+                        "name": "Gawain Lynch",
+                        "email": "gawain.lynch@gmail.com"
+                    }
+                ],
+                "description": "An extension to create XML sitemaps for your Bolt website.",
+                "keywords": [
+                    "SEO",
+                    "sitemap"
+                ],
+                "support": {
+                    "source": "https://github.com/bolt/Sitemap/tree/2.4.0",
+                    "issues": "https://github.com/bolt/Sitemap/issues"
+                }
+            },
+            {
+                "name": "bolt/sitemap",
+                "version": "2.5.0",
+                "version_normalized": "2.5.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bolt/Sitemap.git",
+                    "reference": "f7e67187c7fddd0335e90d5ae000c471593ed6bc"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bolt/Sitemap/zipball/f7e67187c7fddd0335e90d5ae000c471593ed6bc",
+                    "reference": "f7e67187c7fddd0335e90d5ae000c471593ed6bc",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": "^3.0"
+                },
+                "time": "2018-06-03T09:18:36+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-icon": "icon-sitemap.png",
+                    "bolt-class": "Bolt\\Extension\\Bolt\\Sitemap\\SitemapExtension",
+                    "branch-alias": {
+                        "dev-2.x": "2.3.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Bolt\\Extension\\Bolt\\Sitemap\\": "src"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Bob den Otter",
+                        "email": "bob@twokings.nl"
+                    },
+                    {
+                        "name": "Patrick van Kouteren",
+                        "email": "info@wedesignit.nl"
+                    },
+                    {
+                        "name": "Gawain Lynch",
+                        "email": "gawain.lynch@gmail.com"
+                    }
+                ],
+                "description": "An extension to create XML sitemaps for your Bolt website.",
+                "keywords": [
+                    "SEO",
+                    "sitemap"
+                ],
+                "support": {
+                    "source": "https://github.com/bolt/Sitemap/tree/2.5.0",
+                    "issues": "https://github.com/bolt/Sitemap/issues"
+                }
+            },
+            {
+                "name": "bolt/sitemap",
+                "version": "2.6.0",
+                "version_normalized": "2.6.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bolt/Sitemap.git",
+                    "reference": "cb58a95df47e355a2e9f1fa318d0972364d1b724"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bolt/Sitemap/zipball/cb58a95df47e355a2e9f1fa318d0972364d1b724",
+                    "reference": "cb58a95df47e355a2e9f1fa318d0972364d1b724",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": "^3.0"
+                },
+                "time": "2019-10-20T16:50:44+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-icon": "icon-sitemap.png",
+                    "bolt-class": "Bolt\\Extension\\Bolt\\Sitemap\\SitemapExtension",
+                    "branch-alias": {
+                        "dev-2.x": "2.3.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Bolt\\Extension\\Bolt\\Sitemap\\": "src"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Bob den Otter",
+                        "email": "bob@twokings.nl"
+                    },
+                    {
+                        "name": "Patrick van Kouteren",
+                        "email": "info@wedesignit.nl"
+                    },
+                    {
+                        "name": "Gawain Lynch",
+                        "email": "gawain.lynch@gmail.com"
+                    }
+                ],
+                "description": "An extension to create XML sitemaps for your Bolt website.",
+                "keywords": [
+                    "SEO",
+                    "sitemap"
+                ],
+                "support": {
+                    "source": "https://github.com/bolt/Sitemap/tree/2.6.0",
+                    "issues": "https://github.com/bolt/Sitemap/issues"
+                }
+            }
+        ]
+    }
+}

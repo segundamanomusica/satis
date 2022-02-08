@@ -1,0 +1,110 @@
+{
+    "packages": {
+        "bolt/robots": [
+            {
+                "name": "bolt/robots",
+                "version": "v1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bolt/bolt-extension-robots.git",
+                    "reference": "0fb7770ebc5acc49f77c375e62bfea29f43b9b1c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bolt/bolt-extension-robots/zipball/0fb7770ebc5acc49f77c375e62bfea29f43b9b1c",
+                    "reference": "0fb7770ebc5acc49f77c375e62bfea29f43b9b1c",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": "^3.0"
+                },
+                "time": "2016-12-06T08:07:29+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-class": "Bolt\\Extension\\Bolt\\Robots\\RobotsExtension",
+                    "bolt-icon": "icon-robots.txt.png",
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Bolt\\Extension\\Bolt\\Robots\\": "src"
+                    }
+                },
+                "license": [
+                    "GPL-3.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "Gawain Lynch",
+                        "email": "gawain.lynch@gmail.com"
+                    }
+                ],
+                "description": "Simple interface to manage generated robots.txt files",
+                "keywords": [
+                    "Google",
+                    "SEO",
+                    "robots.txt"
+                ],
+                "support": {
+                    "source": "https://github.com/bolt/bolt-extension-robots/tree/v1.0.0",
+                    "issues": "https://github.com/bolt/bolt-extension-robots/issues"
+                }
+            },
+            {
+                "name": "bolt/robots",
+                "version": "v1.0.1",
+                "version_normalized": "1.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bolt/bolt-extension-robots.git",
+                    "reference": "649076c15c19023b924721786efbe9f6653e8fb7"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bolt/bolt-extension-robots/zipball/649076c15c19023b924721786efbe9f6653e8fb7",
+                    "reference": "649076c15c19023b924721786efbe9f6653e8fb7",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": "^3.0"
+                },
+                "time": "2017-04-01T15:29:21+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-class": "Bolt\\Extension\\Bolt\\Robots\\RobotsExtension",
+                    "bolt-icon": "icon-robots.txt.png",
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Bolt\\Extension\\Bolt\\Robots\\": "src"
+                    }
+                },
+                "license": [
+                    "GPL-3.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "Gawain Lynch",
+                        "email": "gawain.lynch@gmail.com"
+                    }
+                ],
+                "description": "Simple interface to manage generated robots.txt files",
+                "keywords": [
+                    "Google",
+                    "SEO",
+                    "robots.txt"
+                ],
+                "support": {
+                    "source": "https://github.com/bolt/bolt-extension-robots/tree/v1.0.1",
+                    "issues": "https://github.com/bolt/bolt-extension-robots/issues"
+                }
+            }
+        ]
+    }
+}

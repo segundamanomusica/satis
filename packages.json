@@ -1,0 +1,15 @@
+{
+    "packages": [],
+    "includes": {
+        "include/all$4d1408c265e34d19709444145721040694fb0aa0.json": {
+            "sha1": "4d1408c265e34d19709444145721040694fb0aa0"
+        }
+    },
+    "metadata-url": "/p2/%package%.json",
+    "available-packages": [
+        "bobdenotter/seo",
+        "bolt/robots",
+        "bolt/sitemap",
+        "sahassar/boltredirector"
+    ]
+}

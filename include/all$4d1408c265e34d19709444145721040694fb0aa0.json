@@ -1,0 +1,3624 @@
+{
+    "packages": {
+        "bobdenotter/seo": {
+            "0.10.0": {
+                "name": "bobdenotter/seo",
+                "version": "0.10.0",
+                "version_normalized": "0.10.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bobdenotter/seo.git",
+                    "reference": "f94ec0f8c80bc8c68a7304df60dc570ab24f94e0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bobdenotter/seo/zipball/f94ec0f8c80bc8c68a7304df60dc570ab24f94e0",
+                    "reference": "f94ec0f8c80bc8c68a7304df60dc570ab24f94e0",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": "^3.0"
+                },
+                "time": "2016-04-30T14:12:44+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-assets": "web",
+                    "bolt-class": "Bolt\\Extension\\BobdenOtter\\Seo\\SeoExtension"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Bolt\\Extension\\BobdenOtter\\Seo\\": "src"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Bob den Otter",
+                        "email": "bob@twokings.nl"
+                    }
+                ],
+                "description": "An extension to easily manage SEO title, meta description and OG tags.",
+                "support": {
+                    "source": "https://github.com/bobdenotter/seo/tree/0.10.0",
+                    "issues": "https://github.com/bobdenotter/seo/issues"
+                }
+            },
+            "0.10.1": {
+                "name": "bobdenotter/seo",
+                "version": "0.10.1",
+                "version_normalized": "0.10.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bobdenotter/seo.git",
+                    "reference": "5f8288aa7d44dd55b448e8ac92ec2bb25e6175fd"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bobdenotter/seo/zipball/5f8288aa7d44dd55b448e8ac92ec2bb25e6175fd",
+                    "reference": "5f8288aa7d44dd55b448e8ac92ec2bb25e6175fd",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": "^3.0"
+                },
+                "time": "2016-05-28T12:21:41+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-assets": "web",
+                    "bolt-class": "Bolt\\Extension\\BobdenOtter\\Seo\\SeoExtension"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Bolt\\Extension\\BobdenOtter\\Seo\\": "src"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Bob den Otter",
+                        "email": "bob@twokings.nl"
+                    }
+                ],
+                "description": "An extension to easily manage SEO title, meta description and OG tags.",
+                "support": {
+                    "source": "https://github.com/bobdenotter/seo/tree/0.10.1",
+                    "issues": "https://github.com/bobdenotter/seo/issues"
+                }
+            },
+            "0.10.2": {
+                "name": "bobdenotter/seo",
+                "version": "0.10.2",
+                "version_normalized": "0.10.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bobdenotter/seo.git",
+                    "reference": "8ba95320c0ba3dc2a1533ac8ba065b65ad3023a6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bobdenotter/seo/zipball/8ba95320c0ba3dc2a1533ac8ba065b65ad3023a6",
+                    "reference": "8ba95320c0ba3dc2a1533ac8ba065b65ad3023a6",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": "^3.0"
+                },
+                "time": "2016-06-21T18:36:03+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-assets": "web",
+                    "bolt-class": "Bolt\\Extension\\BobdenOtter\\Seo\\SeoExtension"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Bolt\\Extension\\BobdenOtter\\Seo\\": "src"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Bob den Otter",
+                        "email": "bob@twokings.nl"
+                    }
+                ],
+                "description": "An extension to easily manage SEO title, meta description and OG tags.",
+                "support": {
+                    "source": "https://github.com/bobdenotter/seo/tree/0.10.2",
+                    "issues": "https://github.com/bobdenotter/seo/issues"
+                }
+            },
+            "0.10.3": {
+                "name": "bobdenotter/seo",
+                "version": "0.10.3",
+                "version_normalized": "0.10.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bobdenotter/seo.git",
+                    "reference": "f562dc87ed7b73220520a3679234a79fc2238dd6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bobdenotter/seo/zipball/f562dc87ed7b73220520a3679234a79fc2238dd6",
+                    "reference": "f562dc87ed7b73220520a3679234a79fc2238dd6",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": "^3.0"
+                },
+                "time": "2016-07-07T07:56:29+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-assets": "web",
+                    "bolt-class": "Bolt\\Extension\\BobdenOtter\\Seo\\SeoExtension"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Bolt\\Extension\\BobdenOtter\\Seo\\": "src"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Bob den Otter",
+                        "email": "bob@twokings.nl"
+                    }
+                ],
+                "description": "An extension to easily manage SEO title, meta description and OG tags.",
+                "support": {
+                    "source": "https://github.com/bobdenotter/seo/tree/0.10.3",
+                    "issues": "https://github.com/bobdenotter/seo/issues"
+                }
+            },
+            "0.11.0": {
+                "name": "bobdenotter/seo",
+                "version": "0.11.0",
+                "version_normalized": "0.11.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bobdenotter/seo.git",
+                    "reference": "3a52ed514e17c5f77092441fb1beb88049c19ae3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bobdenotter/seo/zipball/3a52ed514e17c5f77092441fb1beb88049c19ae3",
+                    "reference": "3a52ed514e17c5f77092441fb1beb88049c19ae3",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": "^3.0"
+                },
+                "time": "2016-11-02T11:16:29+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-assets": "web",
+                    "bolt-class": "Bolt\\Extension\\BobdenOtter\\Seo\\SeoExtension"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Bolt\\Extension\\BobdenOtter\\Seo\\": "src"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Bob den Otter",
+                        "email": "bob@twokings.nl"
+                    }
+                ],
+                "description": "An extension to easily manage SEO title, meta description and OG tags.",
+                "support": {
+                    "source": "https://github.com/bobdenotter/seo/tree/0.11.0",
+                    "issues": "https://github.com/bobdenotter/seo/issues"
+                }
+            },
+            "0.12.0": {
+                "name": "bobdenotter/seo",
+                "version": "0.12.0",
+                "version_normalized": "0.12.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bobdenotter/seo.git",
+                    "reference": "a91291b113aa98e21343bba1a27448cb7610d752"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bobdenotter/seo/zipball/a91291b113aa98e21343bba1a27448cb7610d752",
+                    "reference": "a91291b113aa98e21343bba1a27448cb7610d752",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": "^3.0"
+                },
+                "time": "2016-11-22T17:28:40+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-assets": "web",
+                    "bolt-class": "Bolt\\Extension\\BobdenOtter\\Seo\\SeoExtension"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Bolt\\Extension\\BobdenOtter\\Seo\\": "src"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Bob den Otter",
+                        "email": "bob@twokings.nl"
+                    }
+                ],
+                "description": "An extension to easily manage SEO title, meta description and OG tags.",
+                "support": {
+                    "source": "https://github.com/bobdenotter/seo/tree/0.12.0",
+                    "issues": "https://github.com/bobdenotter/seo/issues"
+                }
+            },
+            "0.12.1": {
+                "name": "bobdenotter/seo",
+                "version": "0.12.1",
+                "version_normalized": "0.12.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bobdenotter/seo.git",
+                    "reference": "8f6dd78b5ba2c14f54c57a90736d7908415ad71f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bobdenotter/seo/zipball/8f6dd78b5ba2c14f54c57a90736d7908415ad71f",
+                    "reference": "8f6dd78b5ba2c14f54c57a90736d7908415ad71f",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": "^3.0"
+                },
+                "time": "2016-12-07T11:59:09+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-assets": "web",
+                    "bolt-class": "Bolt\\Extension\\BobdenOtter\\Seo\\SeoExtension"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Bolt\\Extension\\BobdenOtter\\Seo\\": "src"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Bob den Otter",
+                        "email": "bob@twokings.nl"
+                    }
+                ],
+                "description": "An extension to easily manage SEO title, meta description and OG tags.",
+                "support": {
+                    "source": "https://github.com/bobdenotter/seo/tree/0.12.1",
+                    "issues": "https://github.com/bobdenotter/seo/issues"
+                }
+            },
+            "0.13.0": {
+                "name": "bobdenotter/seo",
+                "version": "0.13.0",
+                "version_normalized": "0.13.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bobdenotter/seo.git",
+                    "reference": "92270c1907f8906614f3c5445e3e49907c32c4fe"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bobdenotter/seo/zipball/92270c1907f8906614f3c5445e3e49907c32c4fe",
+                    "reference": "92270c1907f8906614f3c5445e3e49907c32c4fe",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": "^3.0"
+                },
+                "time": "2017-01-20T13:09:50+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-assets": "web",
+                    "bolt-class": "Bolt\\Extension\\BobdenOtter\\Seo\\SeoExtension"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Bolt\\Extension\\BobdenOtter\\Seo\\": "src"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Bob den Otter",
+                        "email": "bob@twokings.nl"
+                    }
+                ],
+                "description": "An extension to easily manage SEO title, meta description and OG tags.",
+                "support": {
+                    "source": "https://github.com/bobdenotter/seo/tree/0.13.0",
+                    "issues": "https://github.com/bobdenotter/seo/issues"
+                }
+            },
+            "0.14.0": {
+                "name": "bobdenotter/seo",
+                "version": "0.14.0",
+                "version_normalized": "0.14.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bobdenotter/seo.git",
+                    "reference": "5c0f7b2e14775be76f948fd90645900f98670810"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bobdenotter/seo/zipball/5c0f7b2e14775be76f948fd90645900f98670810",
+                    "reference": "5c0f7b2e14775be76f948fd90645900f98670810",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": "^3.0"
+                },
+                "time": "2017-01-20T14:07:07+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-assets": "web",
+                    "bolt-class": "Bolt\\Extension\\BobdenOtter\\Seo\\SeoExtension"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Bolt\\Extension\\BobdenOtter\\Seo\\": "src"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Bob den Otter",
+                        "email": "bob@twokings.nl"
+                    }
+                ],
+                "description": "An extension to easily manage SEO title, meta description and OG tags.",
+                "support": {
+                    "source": "https://github.com/bobdenotter/seo/tree/0.14.0",
+                    "issues": "https://github.com/bobdenotter/seo/issues"
+                }
+            },
+            "0.14.1": {
+                "name": "bobdenotter/seo",
+                "version": "0.14.1",
+                "version_normalized": "0.14.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bobdenotter/seo.git",
+                    "reference": "8f4948241b89142672053f88ea33ab6ecc783737"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bobdenotter/seo/zipball/8f4948241b89142672053f88ea33ab6ecc783737",
+                    "reference": "8f4948241b89142672053f88ea33ab6ecc783737",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": "^3.0"
+                },
+                "time": "2017-02-06T17:16:37+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-assets": "web",
+                    "bolt-class": "Bolt\\Extension\\BobdenOtter\\Seo\\SeoExtension"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Bolt\\Extension\\BobdenOtter\\Seo\\": "src"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Bob den Otter",
+                        "email": "bob@twokings.nl"
+                    }
+                ],
+                "description": "An extension to easily manage SEO title, meta description and OG tags.",
+                "support": {
+                    "source": "https://github.com/bobdenotter/seo/tree/0.14.1",
+                    "issues": "https://github.com/bobdenotter/seo/issues"
+                }
+            },
+            "0.14.2": {
+                "name": "bobdenotter/seo",
+                "version": "0.14.2",
+                "version_normalized": "0.14.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bobdenotter/seo.git",
+                    "reference": "1d9bd647137124852c799470754b4054e3b88f99"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bobdenotter/seo/zipball/1d9bd647137124852c799470754b4054e3b88f99",
+                    "reference": "1d9bd647137124852c799470754b4054e3b88f99",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": "^3.0"
+                },
+                "time": "2017-04-06T15:36:42+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-assets": "web",
+                    "bolt-class": "Bolt\\Extension\\BobdenOtter\\Seo\\SeoExtension"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Bolt\\Extension\\BobdenOtter\\Seo\\": "src"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Bob den Otter",
+                        "email": "bob@twokings.nl"
+                    }
+                ],
+                "description": "An extension to easily manage SEO title, meta description and OG tags.",
+                "support": {
+                    "source": "https://github.com/bobdenotter/seo/tree/0.14.2",
+                    "issues": "https://github.com/bobdenotter/seo/issues"
+                }
+            },
+            "0.9.0": {
+                "name": "bobdenotter/seo",
+                "version": "0.9.0",
+                "version_normalized": "0.9.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bobdenotter/seo.git",
+                    "reference": "ebb3c1ad4b3f85c6ea337ebe023480a4b14ebb48"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bobdenotter/seo/zipball/ebb3c1ad4b3f85c6ea337ebe023480a4b14ebb48",
+                    "reference": "ebb3c1ad4b3f85c6ea337ebe023480a4b14ebb48",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": ">=2.1.0,<3.0.0"
+                },
+                "time": "2015-06-03T12:07:13+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-assets": "assets"
+                },
+                "autoload": {
+                    "files": [
+                        "init.php"
+                    ],
+                    "psr-4": {
+                        "Bolt\\Extension\\BobdenOtter\\Seo\\": ""
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Bob den Otter",
+                        "email": "bob@twokings.nl"
+                    }
+                ],
+                "description": "An extension to easily manage SEO title, meta description and OG tags.",
+                "support": {
+                    "source": "https://github.com/bobdenotter/seo/tree/0.9.0",
+                    "issues": "https://github.com/bobdenotter/seo/issues"
+                }
+            },
+            "0.9.10": {
+                "name": "bobdenotter/seo",
+                "version": "0.9.10",
+                "version_normalized": "0.9.10.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bobdenotter/seo.git",
+                    "reference": "9b7d227aa0fc3dec30ae2e3d06ca1159a18e9a7e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bobdenotter/seo/zipball/9b7d227aa0fc3dec30ae2e3d06ca1159a18e9a7e",
+                    "reference": "9b7d227aa0fc3dec30ae2e3d06ca1159a18e9a7e",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": ">=2.1.0,<4.0.0"
+                },
+                "time": "2015-12-04T09:15:17+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-assets": "assets"
+                },
+                "autoload": {
+                    "files": [
+                        "init.php"
+                    ],
+                    "psr-4": {
+                        "Bolt\\Extension\\BobdenOtter\\Seo\\": ""
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Bob den Otter",
+                        "email": "bob@twokings.nl"
+                    }
+                ],
+                "description": "An extension to easily manage SEO title, meta description and OG tags.",
+                "support": {
+                    "source": "https://github.com/bobdenotter/seo/tree/0.9.10",
+                    "issues": "https://github.com/bobdenotter/seo/issues"
+                }
+            },
+            "0.9.11": {
+                "name": "bobdenotter/seo",
+                "version": "0.9.11",
+                "version_normalized": "0.9.11.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bobdenotter/seo.git",
+                    "reference": "4b9de162dfeaa355422fff52d77ca9b742cb178c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bobdenotter/seo/zipball/4b9de162dfeaa355422fff52d77ca9b742cb178c",
+                    "reference": "4b9de162dfeaa355422fff52d77ca9b742cb178c",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": ">=2.1.0,<4.0.0"
+                },
+                "time": "2016-01-28T17:22:50+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-assets": "assets"
+                },
+                "autoload": {
+                    "files": [
+                        "init.php"
+                    ],
+                    "psr-4": {
+                        "Bolt\\Extension\\BobdenOtter\\Seo\\": ""
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Bob den Otter",
+                        "email": "bob@twokings.nl"
+                    }
+                ],
+                "description": "An extension to easily manage SEO title, meta description and OG tags.",
+                "support": {
+                    "source": "https://github.com/bobdenotter/seo/tree/0.9.11",
+                    "issues": "https://github.com/bobdenotter/seo/issues"
+                }
+            },
+            "0.9.12": {
+                "name": "bobdenotter/seo",
+                "version": "0.9.12",
+                "version_normalized": "0.9.12.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bobdenotter/seo.git",
+                    "reference": "b391c66d8de3cc25803779dedab74a0c803f792d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bobdenotter/seo/zipball/b391c66d8de3cc25803779dedab74a0c803f792d",
+                    "reference": "b391c66d8de3cc25803779dedab74a0c803f792d",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": ">=2.1.0,<4.0.0"
+                },
+                "time": "2016-01-28T17:44:57+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-assets": "assets"
+                },
+                "autoload": {
+                    "files": [
+                        "init.php"
+                    ],
+                    "psr-4": {
+                        "Bolt\\Extension\\BobdenOtter\\Seo\\": ""
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Bob den Otter",
+                        "email": "bob@twokings.nl"
+                    }
+                ],
+                "description": "An extension to easily manage SEO title, meta description and OG tags.",
+                "support": {
+                    "source": "https://github.com/bobdenotter/seo/tree/0.9.12",
+                    "issues": "https://github.com/bobdenotter/seo/issues"
+                }
+            },
+            "0.9.13": {
+                "name": "bobdenotter/seo",
+                "version": "0.9.13",
+                "version_normalized": "0.9.13.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bobdenotter/seo.git",
+                    "reference": "f15a333de2e48f17395cf7e0dbb43d3c89e13075"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bobdenotter/seo/zipball/f15a333de2e48f17395cf7e0dbb43d3c89e13075",
+                    "reference": "f15a333de2e48f17395cf7e0dbb43d3c89e13075",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": ">=2.1.0,<4.0.0"
+                },
+                "time": "2016-03-29T18:04:28+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-assets": "assets"
+                },
+                "autoload": {
+                    "files": [
+                        "init.php"
+                    ],
+                    "psr-4": {
+                        "Bolt\\Extension\\BobdenOtter\\Seo\\": ""
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Bob den Otter",
+                        "email": "bob@twokings.nl"
+                    }
+                ],
+                "description": "An extension to easily manage SEO title, meta description and OG tags.",
+                "support": {
+                    "source": "https://github.com/bobdenotter/seo/tree/0.9.13",
+                    "issues": "https://github.com/bobdenotter/seo/issues"
+                }
+            },
+            "0.9.2": {
+                "name": "bobdenotter/seo",
+                "version": "0.9.2",
+                "version_normalized": "0.9.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bobdenotter/seo.git",
+                    "reference": "cafd5b81a04a1cbfab81d2aa7f63e48c4fec644e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bobdenotter/seo/zipball/cafd5b81a04a1cbfab81d2aa7f63e48c4fec644e",
+                    "reference": "cafd5b81a04a1cbfab81d2aa7f63e48c4fec644e",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": ">=2.1.0,<3.0.0"
+                },
+                "time": "2015-08-16T15:08:39+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-assets": "assets"
+                },
+                "autoload": {
+                    "files": [
+                        "init.php"
+                    ],
+                    "psr-4": {
+                        "Bolt\\Extension\\BobdenOtter\\Seo\\": ""
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Bob den Otter",
+                        "email": "bob@twokings.nl"
+                    }
+                ],
+                "description": "An extension to easily manage SEO title, meta description and OG tags.",
+                "support": {
+                    "source": "https://github.com/bobdenotter/seo/tree/0.9.2",
+                    "issues": "https://github.com/bobdenotter/seo/issues"
+                }
+            },
+            "0.9.3": {
+                "name": "bobdenotter/seo",
+                "version": "0.9.3",
+                "version_normalized": "0.9.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bobdenotter/seo.git",
+                    "reference": "4fa18016b22fb1c30763bd76e26244d4cbc3543f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bobdenotter/seo/zipball/4fa18016b22fb1c30763bd76e26244d4cbc3543f",
+                    "reference": "4fa18016b22fb1c30763bd76e26244d4cbc3543f",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": ">=2.1.0,<3.0.0"
+                },
+                "time": "2015-09-21T19:16:19+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-assets": "assets"
+                },
+                "autoload": {
+                    "files": [
+                        "init.php"
+                    ],
+                    "psr-4": {
+                        "Bolt\\Extension\\BobdenOtter\\Seo\\": ""
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Bob den Otter",
+                        "email": "bob@twokings.nl"
+                    }
+                ],
+                "description": "An extension to easily manage SEO title, meta description and OG tags.",
+                "support": {
+                    "source": "https://github.com/bobdenotter/seo/tree/0.9.3",
+                    "issues": "https://github.com/bobdenotter/seo/issues"
+                }
+            },
+            "0.9.5": {
+                "name": "bobdenotter/seo",
+                "version": "0.9.5",
+                "version_normalized": "0.9.5.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bobdenotter/seo.git",
+                    "reference": "d2f2fde88b9178480d50d4cc21996ecbe2c33c04"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bobdenotter/seo/zipball/d2f2fde88b9178480d50d4cc21996ecbe2c33c04",
+                    "reference": "d2f2fde88b9178480d50d4cc21996ecbe2c33c04",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": ">=2.1.0,<3.0.0"
+                },
+                "time": "2015-10-15T19:20:51+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-assets": "assets"
+                },
+                "autoload": {
+                    "files": [
+                        "init.php"
+                    ],
+                    "psr-4": {
+                        "Bolt\\Extension\\BobdenOtter\\Seo\\": ""
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Bob den Otter",
+                        "email": "bob@twokings.nl"
+                    }
+                ],
+                "description": "An extension to easily manage SEO title, meta description and OG tags.",
+                "support": {
+                    "source": "https://github.com/bobdenotter/seo/tree/0.9.5",
+                    "issues": "https://github.com/bobdenotter/seo/issues"
+                }
+            },
+            "0.9.6": {
+                "name": "bobdenotter/seo",
+                "version": "0.9.6",
+                "version_normalized": "0.9.6.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bobdenotter/seo.git",
+                    "reference": "74b17b2e8809bb1c363a15411febd96386d526a4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bobdenotter/seo/zipball/74b17b2e8809bb1c363a15411febd96386d526a4",
+                    "reference": "74b17b2e8809bb1c363a15411febd96386d526a4",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": ">=2.1.0,<3.0.0"
+                },
+                "time": "2015-10-16T07:03:25+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-assets": "assets"
+                },
+                "autoload": {
+                    "files": [
+                        "init.php"
+                    ],
+                    "psr-4": {
+                        "Bolt\\Extension\\BobdenOtter\\Seo\\": ""
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Bob den Otter",
+                        "email": "bob@twokings.nl"
+                    }
+                ],
+                "description": "An extension to easily manage SEO title, meta description and OG tags.",
+                "support": {
+                    "source": "https://github.com/bobdenotter/seo/tree/0.9.6",
+                    "issues": "https://github.com/bobdenotter/seo/issues"
+                }
+            },
+            "0.9.7": {
+                "name": "bobdenotter/seo",
+                "version": "0.9.7",
+                "version_normalized": "0.9.7.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bobdenotter/seo.git",
+                    "reference": "a6d5f3de5e606e047de29996a456855893ddb927"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bobdenotter/seo/zipball/a6d5f3de5e606e047de29996a456855893ddb927",
+                    "reference": "a6d5f3de5e606e047de29996a456855893ddb927",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": ">=2.1.0,<3.0.0"
+                },
+                "time": "2015-10-16T17:21:10+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-assets": "assets"
+                },
+                "autoload": {
+                    "files": [
+                        "init.php"
+                    ],
+                    "psr-4": {
+                        "Bolt\\Extension\\BobdenOtter\\Seo\\": ""
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Bob den Otter",
+                        "email": "bob@twokings.nl"
+                    }
+                ],
+                "description": "An extension to easily manage SEO title, meta description and OG tags.",
+                "support": {
+                    "source": "https://github.com/bobdenotter/seo/tree/0.9.7",
+                    "issues": "https://github.com/bobdenotter/seo/issues"
+                }
+            },
+            "0.9.8": {
+                "name": "bobdenotter/seo",
+                "version": "0.9.8",
+                "version_normalized": "0.9.8.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bobdenotter/seo.git",
+                    "reference": "ec64e09bf3a10200aaa6f59b46c7e9e4010cce7a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bobdenotter/seo/zipball/ec64e09bf3a10200aaa6f59b46c7e9e4010cce7a",
+                    "reference": "ec64e09bf3a10200aaa6f59b46c7e9e4010cce7a",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": ">=2.1.0,<3.0.0"
+                },
+                "time": "2015-10-26T08:45:15+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-assets": "assets"
+                },
+                "autoload": {
+                    "files": [
+                        "init.php"
+                    ],
+                    "psr-4": {
+                        "Bolt\\Extension\\BobdenOtter\\Seo\\": ""
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Bob den Otter",
+                        "email": "bob@twokings.nl"
+                    }
+                ],
+                "description": "An extension to easily manage SEO title, meta description and OG tags.",
+                "support": {
+                    "source": "https://github.com/bobdenotter/seo/tree/0.9.8",
+                    "issues": "https://github.com/bobdenotter/seo/issues"
+                }
+            },
+            "0.9.9": {
+                "name": "bobdenotter/seo",
+                "version": "0.9.9",
+                "version_normalized": "0.9.9.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bobdenotter/seo.git",
+                    "reference": "c6ab6fcbd18d99a3b470727c1a5fce178a10ae86"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bobdenotter/seo/zipball/c6ab6fcbd18d99a3b470727c1a5fce178a10ae86",
+                    "reference": "c6ab6fcbd18d99a3b470727c1a5fce178a10ae86",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": ">=2.1.0,<3.0.0"
+                },
+                "time": "2015-10-27T17:10:52+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-assets": "assets"
+                },
+                "autoload": {
+                    "files": [
+                        "init.php"
+                    ],
+                    "psr-4": {
+                        "Bolt\\Extension\\BobdenOtter\\Seo\\": ""
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Bob den Otter",
+                        "email": "bob@twokings.nl"
+                    }
+                ],
+                "description": "An extension to easily manage SEO title, meta description and OG tags.",
+                "support": {
+                    "source": "https://github.com/bobdenotter/seo/tree/0.9.9",
+                    "issues": "https://github.com/bobdenotter/seo/issues"
+                }
+            },
+            "1.0.0": {
+                "name": "bobdenotter/seo",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bobdenotter/seo.git",
+                    "reference": "49f0fa303c58dc5def77e2b3ea4b732599c2f139"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bobdenotter/seo/zipball/49f0fa303c58dc5def77e2b3ea4b732599c2f139",
+                    "reference": "49f0fa303c58dc5def77e2b3ea4b732599c2f139",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": "^3.0"
+                },
+                "time": "2017-05-29T13:19:54+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-assets": "web",
+                    "bolt-class": "Bolt\\Extension\\BobdenOtter\\Seo\\SeoExtension"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Bolt\\Extension\\BobdenOtter\\Seo\\": "src"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Bob den Otter",
+                        "email": "bob@twokings.nl"
+                    }
+                ],
+                "description": "An extension to easily manage SEO title, meta description and OG tags.",
+                "support": {
+                    "source": "https://github.com/bobdenotter/seo/tree/1.0.0",
+                    "issues": "https://github.com/bobdenotter/seo/issues"
+                }
+            },
+            "1.0.1": {
+                "name": "bobdenotter/seo",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bobdenotter/seo.git",
+                    "reference": "f8cda678f6cc192b72dc2ff2c78034c572d77274"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bobdenotter/seo/zipball/f8cda678f6cc192b72dc2ff2c78034c572d77274",
+                    "reference": "f8cda678f6cc192b72dc2ff2c78034c572d77274",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": "^3.0"
+                },
+                "time": "2017-06-21T12:46:10+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-assets": "web",
+                    "bolt-class": "Bolt\\Extension\\BobdenOtter\\Seo\\SeoExtension"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Bolt\\Extension\\BobdenOtter\\Seo\\": "src"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Bob den Otter",
+                        "email": "bob@twokings.nl"
+                    }
+                ],
+                "description": "An extension to easily manage SEO title, meta description and OG tags.",
+                "support": {
+                    "source": "https://github.com/bobdenotter/seo/tree/1.0.1",
+                    "issues": "https://github.com/bobdenotter/seo/issues"
+                }
+            },
+            "1.0.2": {
+                "name": "bobdenotter/seo",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bobdenotter/seo.git",
+                    "reference": "1bc6274763f5ed3f7f30252d2cee4e7aa764b645"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bobdenotter/seo/zipball/1bc6274763f5ed3f7f30252d2cee4e7aa764b645",
+                    "reference": "1bc6274763f5ed3f7f30252d2cee4e7aa764b645",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": "^3.0"
+                },
+                "time": "2017-06-23T08:56:54+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-assets": "web",
+                    "bolt-class": "Bolt\\Extension\\BobdenOtter\\Seo\\SeoExtension"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Bolt\\Extension\\BobdenOtter\\Seo\\": "src"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Bob den Otter",
+                        "email": "bob@twokings.nl"
+                    }
+                ],
+                "description": "An extension to easily manage SEO title, meta description and OG tags.",
+                "support": {
+                    "source": "https://github.com/bobdenotter/seo/tree/1.0.2",
+                    "issues": "https://github.com/bobdenotter/seo/issues"
+                }
+            },
+            "1.0.3": {
+                "name": "bobdenotter/seo",
+                "version": "1.0.3",
+                "version_normalized": "1.0.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bobdenotter/seo.git",
+                    "reference": "d16bc52d5647696454063b37e92febab1327f5d4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bobdenotter/seo/zipball/d16bc52d5647696454063b37e92febab1327f5d4",
+                    "reference": "d16bc52d5647696454063b37e92febab1327f5d4",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": "^3.0"
+                },
+                "time": "2017-07-04T09:49:10+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-assets": "web",
+                    "bolt-class": "Bolt\\Extension\\BobdenOtter\\Seo\\SeoExtension"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Bolt\\Extension\\BobdenOtter\\Seo\\": "src"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Bob den Otter",
+                        "email": "bob@twokings.nl"
+                    }
+                ],
+                "description": "An extension to easily manage SEO title, meta description and OG tags.",
+                "support": {
+                    "source": "https://github.com/bobdenotter/seo/tree/1.0.3",
+                    "issues": "https://github.com/bobdenotter/seo/issues"
+                }
+            },
+            "1.0.4": {
+                "name": "bobdenotter/seo",
+                "version": "1.0.4",
+                "version_normalized": "1.0.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bobdenotter/seo.git",
+                    "reference": "79d49cab7b64d2094279d4e8977cbb5d5893a2e2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bobdenotter/seo/zipball/79d49cab7b64d2094279d4e8977cbb5d5893a2e2",
+                    "reference": "79d49cab7b64d2094279d4e8977cbb5d5893a2e2",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": "^3.0"
+                },
+                "time": "2017-09-07T15:42:24+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-assets": "web",
+                    "bolt-class": "Bolt\\Extension\\BobdenOtter\\Seo\\SeoExtension"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Bolt\\Extension\\BobdenOtter\\Seo\\": "src"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Bob den Otter",
+                        "email": "bob@twokings.nl"
+                    }
+                ],
+                "description": "An extension to easily manage SEO title, meta description and OG tags.",
+                "support": {
+                    "source": "https://github.com/bobdenotter/seo/tree/1.0.4",
+                    "issues": "https://github.com/bobdenotter/seo/issues"
+                }
+            },
+            "1.0.5": {
+                "name": "bobdenotter/seo",
+                "version": "1.0.5",
+                "version_normalized": "1.0.5.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bobdenotter/seo.git",
+                    "reference": "96918c2c7fcfd01aaa01ba14480fd639dba3ba37"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bobdenotter/seo/zipball/96918c2c7fcfd01aaa01ba14480fd639dba3ba37",
+                    "reference": "96918c2c7fcfd01aaa01ba14480fd639dba3ba37",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": "^3.0"
+                },
+                "time": "2017-09-13T13:36:11+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-assets": "web",
+                    "bolt-class": "Bolt\\Extension\\BobdenOtter\\Seo\\SeoExtension"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Bolt\\Extension\\BobdenOtter\\Seo\\": "src"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Bob den Otter",
+                        "email": "bob@twokings.nl"
+                    }
+                ],
+                "description": "An extension to easily manage SEO title, meta description and OG tags.",
+                "support": {
+                    "source": "https://github.com/bobdenotter/seo/tree/1.0.5",
+                    "issues": "https://github.com/bobdenotter/seo/issues"
+                }
+            },
+            "1.0.6": {
+                "name": "bobdenotter/seo",
+                "version": "1.0.6",
+                "version_normalized": "1.0.6.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bobdenotter/seo.git",
+                    "reference": "7ea8c3dbcb4a2c5e4fb92f292670ad946571485a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bobdenotter/seo/zipball/7ea8c3dbcb4a2c5e4fb92f292670ad946571485a",
+                    "reference": "7ea8c3dbcb4a2c5e4fb92f292670ad946571485a",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": "^3.0"
+                },
+                "time": "2017-11-02T13:10:16+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-assets": "web",
+                    "bolt-class": "Bolt\\Extension\\BobdenOtter\\Seo\\SeoExtension"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Bolt\\Extension\\BobdenOtter\\Seo\\": "src"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Bob den Otter",
+                        "email": "bob@twokings.nl"
+                    }
+                ],
+                "description": "An extension to easily manage SEO title, meta description and OG tags.",
+                "support": {
+                    "source": "https://github.com/bobdenotter/seo/tree/1.0.6",
+                    "issues": "https://github.com/bobdenotter/seo/issues"
+                }
+            },
+            "1.0.7": {
+                "name": "bobdenotter/seo",
+                "version": "1.0.7",
+                "version_normalized": "1.0.7.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bobdenotter/seo.git",
+                    "reference": "1247de387c9d6cebf456606c266487e0c46a1a78"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bobdenotter/seo/zipball/1247de387c9d6cebf456606c266487e0c46a1a78",
+                    "reference": "1247de387c9d6cebf456606c266487e0c46a1a78",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": "^3.0"
+                },
+                "time": "2018-01-12T11:54:14+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-assets": "web",
+                    "bolt-class": "Bolt\\Extension\\BobdenOtter\\Seo\\SeoExtension"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Bolt\\Extension\\BobdenOtter\\Seo\\": "src"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Bob den Otter",
+                        "email": "bob@twokings.nl"
+                    }
+                ],
+                "description": "An extension to easily manage SEO title, meta description and OG tags.",
+                "support": {
+                    "source": "https://github.com/bobdenotter/seo/tree/1.0.7",
+                    "issues": "https://github.com/bobdenotter/seo/issues"
+                }
+            },
+            "1.1.0": {
+                "name": "bobdenotter/seo",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bobdenotter/seo.git",
+                    "reference": "07f8b5b2ab1da80559d68028c2030ec0b7d5392b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bobdenotter/seo/zipball/07f8b5b2ab1da80559d68028c2030ec0b7d5392b",
+                    "reference": "07f8b5b2ab1da80559d68028c2030ec0b7d5392b",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": "^3.0"
+                },
+                "time": "2018-03-05T16:38:28+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-assets": "web",
+                    "bolt-class": "Bolt\\Extension\\BobdenOtter\\Seo\\SeoExtension"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Bolt\\Extension\\BobdenOtter\\Seo\\": "src"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Bob den Otter",
+                        "email": "bob@twokings.nl"
+                    }
+                ],
+                "description": "An extension to easily manage SEO title, meta description and OG tags.",
+                "support": {
+                    "source": "https://github.com/bobdenotter/seo/tree/1.1.0",
+                    "issues": "https://github.com/bobdenotter/seo/issues"
+                }
+            },
+            "1.1.1": {
+                "name": "bobdenotter/seo",
+                "version": "1.1.1",
+                "version_normalized": "1.1.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bobdenotter/seo.git",
+                    "reference": "2a9823a3484c99a90f8ea903129c90c93092df2a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bobdenotter/seo/zipball/2a9823a3484c99a90f8ea903129c90c93092df2a",
+                    "reference": "2a9823a3484c99a90f8ea903129c90c93092df2a",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": "^3.0"
+                },
+                "time": "2019-09-20T11:16:52+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-assets": "web",
+                    "bolt-class": "Bolt\\Extension\\BobdenOtter\\Seo\\SeoExtension"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Bolt\\Extension\\BobdenOtter\\Seo\\": "src"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Bob den Otter",
+                        "email": "bob@twokings.nl"
+                    }
+                ],
+                "description": "An extension to easily manage SEO title, meta description and OG tags.",
+                "support": {
+                    "source": "https://github.com/bobdenotter/seo/tree/1.1.1",
+                    "issues": "https://github.com/bobdenotter/seo/issues"
+                }
+            },
+            "1.1.2": {
+                "name": "bobdenotter/seo",
+                "version": "1.1.2",
+                "version_normalized": "1.1.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bobdenotter/seo.git",
+                    "reference": "7124892cfb709b7a6c7fe4a7f186488082f005bf"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bobdenotter/seo/zipball/7124892cfb709b7a6c7fe4a7f186488082f005bf",
+                    "reference": "7124892cfb709b7a6c7fe4a7f186488082f005bf",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": "^3.0"
+                },
+                "time": "2020-06-05T12:22:27+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-assets": "web",
+                    "bolt-class": "Bolt\\Extension\\BobdenOtter\\Seo\\SeoExtension"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Bolt\\Extension\\BobdenOtter\\Seo\\": "src"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Bob den Otter",
+                        "email": "bob@twokings.nl"
+                    }
+                ],
+                "description": "An extension to easily manage SEO title, meta description and OG tags.",
+                "support": {
+                    "source": "https://github.com/bobdenotter/seo/tree/1.1.2",
+                    "issues": "https://github.com/bobdenotter/seo/issues"
+                }
+            },
+            "dev-master": {
+                "name": "bobdenotter/seo",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bobdenotter/seo.git",
+                    "reference": "55276e29f2e77b8491cc5d623410d9ca1d18ebc7"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bobdenotter/seo/zipball/55276e29f2e77b8491cc5d623410d9ca1d18ebc7",
+                    "reference": "55276e29f2e77b8491cc5d623410d9ca1d18ebc7",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": "^3.0"
+                },
+                "time": "2020-10-03T11:20:09+00:00",
+                "default-branch": true,
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-assets": "web",
+                    "bolt-class": "Bolt\\Extension\\BobdenOtter\\Seo\\SeoExtension"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Bolt\\Extension\\BobdenOtter\\Seo\\": "src"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Bob den Otter",
+                        "email": "bob@twokings.nl"
+                    }
+                ],
+                "description": "An extension to easily manage SEO title, meta description and OG tags.",
+                "support": {
+                    "source": "https://github.com/bobdenotter/seo/tree/master",
+                    "issues": "https://github.com/bobdenotter/seo/issues"
+                }
+            },
+            "dev-refactor/use-a-build-process": {
+                "name": "bobdenotter/seo",
+                "version": "dev-refactor/use-a-build-process",
+                "version_normalized": "dev-refactor/use-a-build-process",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bobdenotter/seo.git",
+                    "reference": "b5f7e3a269e042aef82aaa04d9fb1a9b7e69bd8d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bobdenotter/seo/zipball/b5f7e3a269e042aef82aaa04d9fb1a9b7e69bd8d",
+                    "reference": "b5f7e3a269e042aef82aaa04d9fb1a9b7e69bd8d",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": "^3.0"
+                },
+                "time": "2018-01-26T16:48:55+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-assets": "web",
+                    "bolt-class": "Bolt\\Extension\\BobdenOtter\\Seo\\SeoExtension"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Bolt\\Extension\\BobdenOtter\\Seo\\": "src"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Bob den Otter",
+                        "email": "bob@twokings.nl"
+                    }
+                ],
+                "description": "An extension to easily manage SEO title, meta description and OG tags.",
+                "support": {
+                    "source": "https://github.com/bobdenotter/seo/tree/refactor/use-a-build-process",
+                    "issues": "https://github.com/bobdenotter/seo/issues"
+                }
+            }
+        },
+        "bolt/robots": {
+            "v1.0.0": {
+                "name": "bolt/robots",
+                "version": "v1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bolt/bolt-extension-robots.git",
+                    "reference": "0fb7770ebc5acc49f77c375e62bfea29f43b9b1c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bolt/bolt-extension-robots/zipball/0fb7770ebc5acc49f77c375e62bfea29f43b9b1c",
+                    "reference": "0fb7770ebc5acc49f77c375e62bfea29f43b9b1c",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": "^3.0"
+                },
+                "time": "2016-12-06T08:07:29+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-class": "Bolt\\Extension\\Bolt\\Robots\\RobotsExtension",
+                    "bolt-icon": "icon-robots.txt.png",
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Bolt\\Extension\\Bolt\\Robots\\": "src"
+                    }
+                },
+                "license": [
+                    "GPL-3.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "Gawain Lynch",
+                        "email": "gawain.lynch@gmail.com"
+                    }
+                ],
+                "description": "Simple interface to manage generated robots.txt files",
+                "keywords": [
+                    "Google",
+                    "SEO",
+                    "robots.txt"
+                ],
+                "support": {
+                    "source": "https://github.com/bolt/bolt-extension-robots/tree/v1.0.0",
+                    "issues": "https://github.com/bolt/bolt-extension-robots/issues"
+                }
+            },
+            "v1.0.1": {
+                "name": "bolt/robots",
+                "version": "v1.0.1",
+                "version_normalized": "1.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bolt/bolt-extension-robots.git",
+                    "reference": "649076c15c19023b924721786efbe9f6653e8fb7"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bolt/bolt-extension-robots/zipball/649076c15c19023b924721786efbe9f6653e8fb7",
+                    "reference": "649076c15c19023b924721786efbe9f6653e8fb7",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": "^3.0"
+                },
+                "time": "2017-04-01T15:29:21+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-class": "Bolt\\Extension\\Bolt\\Robots\\RobotsExtension",
+                    "bolt-icon": "icon-robots.txt.png",
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Bolt\\Extension\\Bolt\\Robots\\": "src"
+                    }
+                },
+                "license": [
+                    "GPL-3.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "Gawain Lynch",
+                        "email": "gawain.lynch@gmail.com"
+                    }
+                ],
+                "description": "Simple interface to manage generated robots.txt files",
+                "keywords": [
+                    "Google",
+                    "SEO",
+                    "robots.txt"
+                ],
+                "support": {
+                    "source": "https://github.com/bolt/bolt-extension-robots/tree/v1.0.1",
+                    "issues": "https://github.com/bolt/bolt-extension-robots/issues"
+                }
+            },
+            "dev-master": {
+                "name": "bolt/robots",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bolt/bolt-extension-robots.git",
+                    "reference": "649076c15c19023b924721786efbe9f6653e8fb7"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bolt/bolt-extension-robots/zipball/649076c15c19023b924721786efbe9f6653e8fb7",
+                    "reference": "649076c15c19023b924721786efbe9f6653e8fb7",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": "^3.0"
+                },
+                "time": "2017-04-01T15:29:21+00:00",
+                "default-branch": true,
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-class": "Bolt\\Extension\\Bolt\\Robots\\RobotsExtension",
+                    "bolt-icon": "icon-robots.txt.png",
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Bolt\\Extension\\Bolt\\Robots\\": "src"
+                    }
+                },
+                "license": [
+                    "GPL-3.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "Gawain Lynch",
+                        "email": "gawain.lynch@gmail.com"
+                    }
+                ],
+                "description": "Simple interface to manage generated robots.txt files",
+                "keywords": [
+                    "Google",
+                    "SEO",
+                    "robots.txt"
+                ],
+                "support": {
+                    "source": "https://github.com/bolt/bolt-extension-robots/tree/v1.0.1",
+                    "issues": "https://github.com/bolt/bolt-extension-robots/issues"
+                }
+            }
+        },
+        "bolt/sitemap": {
+            "1.0.0": {
+                "name": "bolt/sitemap",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bolt/Sitemap.git",
+                    "reference": "eac7484cc0375cc2f66bb843461a4bb5d50e0266"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bolt/Sitemap/zipball/eac7484cc0375cc2f66bb843461a4bb5d50e0266",
+                    "reference": "eac7484cc0375cc2f66bb843461a4bb5d50e0266",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": ">=2.0.0,<3.0.0"
+                },
+                "time": "2014-11-07T09:40:04+00:00",
+                "type": "bolt-extension",
+                "autoload": {
+                    "files": [
+                        "init.php"
+                    ],
+                    "psr-4": {
+                        "Bolt\\Extension\\Bolt\\Sitemap\\": ""
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Bob den Otter",
+                        "email": "bob@twokings.nl"
+                    },
+                    {
+                        "name": "Patrick van Kouteren",
+                        "email": "info@wedesignit.nl"
+                    }
+                ],
+                "support": {
+                    "source": "https://github.com/bolt/Sitemap/tree/1.0.0",
+                    "issues": "https://github.com/bolt/Sitemap/issues"
+                }
+            },
+            "1.0.1": {
+                "name": "bolt/sitemap",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bolt/Sitemap.git",
+                    "reference": "6364116d93012ea6416d160a90e0d287c808c7ae"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bolt/Sitemap/zipball/6364116d93012ea6416d160a90e0d287c808c7ae",
+                    "reference": "6364116d93012ea6416d160a90e0d287c808c7ae",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": ">=2.0.0,<3.0.0"
+                },
+                "time": "2015-03-13T16:35:56+00:00",
+                "type": "bolt-extension",
+                "autoload": {
+                    "files": [
+                        "init.php"
+                    ],
+                    "psr-4": {
+                        "Bolt\\Extension\\Bolt\\Sitemap\\": ""
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Bob den Otter",
+                        "email": "bob@twokings.nl"
+                    },
+                    {
+                        "name": "Patrick van Kouteren",
+                        "email": "info@wedesignit.nl"
+                    }
+                ],
+                "description": "An extension to create XML sitemaps for your Bolt website.",
+                "keywords": [
+                    "SEO",
+                    "sitemap"
+                ],
+                "support": {
+                    "source": "https://github.com/bolt/Sitemap/tree/1.0.1",
+                    "issues": "https://github.com/bolt/Sitemap/issues"
+                }
+            },
+            "1.0.2": {
+                "name": "bolt/sitemap",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bolt/Sitemap.git",
+                    "reference": "44a444ef3c0400aa38c157473930aca76f5de5d9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bolt/Sitemap/zipball/44a444ef3c0400aa38c157473930aca76f5de5d9",
+                    "reference": "44a444ef3c0400aa38c157473930aca76f5de5d9",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": ">=2.0.0,<3.0.0"
+                },
+                "time": "2015-03-30T17:58:36+00:00",
+                "type": "bolt-extension",
+                "autoload": {
+                    "files": [
+                        "init.php"
+                    ],
+                    "psr-4": {
+                        "Bolt\\Extension\\Bolt\\Sitemap\\": ""
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Bob den Otter",
+                        "email": "bob@twokings.nl"
+                    },
+                    {
+                        "name": "Patrick van Kouteren",
+                        "email": "info@wedesignit.nl"
+                    }
+                ],
+                "description": "An extension to create XML sitemaps for your Bolt website.",
+                "keywords": [
+                    "SEO",
+                    "sitemap"
+                ],
+                "support": {
+                    "source": "https://github.com/bolt/Sitemap/tree/1.0.2",
+                    "issues": "https://github.com/bolt/Sitemap/issues"
+                }
+            },
+            "1.0.3": {
+                "name": "bolt/sitemap",
+                "version": "1.0.3",
+                "version_normalized": "1.0.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bolt/Sitemap.git",
+                    "reference": "604ffe47182ba5d1032cdb6fa48e86672f10c57e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bolt/Sitemap/zipball/604ffe47182ba5d1032cdb6fa48e86672f10c57e",
+                    "reference": "604ffe47182ba5d1032cdb6fa48e86672f10c57e",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": ">=2.0.0,<3.0.0"
+                },
+                "time": "2015-04-21T13:16:35+00:00",
+                "type": "bolt-extension",
+                "autoload": {
+                    "files": [
+                        "init.php"
+                    ],
+                    "psr-4": {
+                        "Bolt\\Extension\\Bolt\\Sitemap\\": ""
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Bob den Otter",
+                        "email": "bob@twokings.nl"
+                    },
+                    {
+                        "name": "Patrick van Kouteren",
+                        "email": "info@wedesignit.nl"
+                    }
+                ],
+                "description": "An extension to create XML sitemaps for your Bolt website.",
+                "keywords": [
+                    "SEO",
+                    "sitemap"
+                ],
+                "support": {
+                    "source": "https://github.com/bolt/Sitemap/tree/1.0.3",
+                    "issues": "https://github.com/bolt/Sitemap/issues"
+                }
+            },
+            "1.0.4": {
+                "name": "bolt/sitemap",
+                "version": "1.0.4",
+                "version_normalized": "1.0.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bolt/Sitemap.git",
+                    "reference": "b0628ab7bf0e700b8e23603ec0f5dad7a2147bdb"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bolt/Sitemap/zipball/b0628ab7bf0e700b8e23603ec0f5dad7a2147bdb",
+                    "reference": "b0628ab7bf0e700b8e23603ec0f5dad7a2147bdb",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": ">=2.0.0,<3.0.0"
+                },
+                "time": "2015-09-12T11:20:30+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-icon": "assets/icon-sitemap.png"
+                },
+                "autoload": {
+                    "files": [
+                        "init.php"
+                    ],
+                    "psr-4": {
+                        "Bolt\\Extension\\Bolt\\Sitemap\\": ""
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Bob den Otter",
+                        "email": "bob@twokings.nl"
+                    },
+                    {
+                        "name": "Patrick van Kouteren",
+                        "email": "info@wedesignit.nl"
+                    }
+                ],
+                "description": "An extension to create XML sitemaps for your Bolt website.",
+                "keywords": [
+                    "SEO",
+                    "sitemap"
+                ],
+                "support": {
+                    "source": "https://github.com/bolt/Sitemap/tree/1.0.4",
+                    "issues": "https://github.com/bolt/Sitemap/issues"
+                }
+            },
+            "1.0.5": {
+                "name": "bolt/sitemap",
+                "version": "1.0.5",
+                "version_normalized": "1.0.5.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bolt/Sitemap.git",
+                    "reference": "8c1e250e674431d0bd32d996711eb8462c626af1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bolt/Sitemap/zipball/8c1e250e674431d0bd32d996711eb8462c626af1",
+                    "reference": "8c1e250e674431d0bd32d996711eb8462c626af1",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": ">=2.0.0,<3.0.0"
+                },
+                "time": "2016-01-22T09:57:07+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-icon": "assets/icon-sitemap.png"
+                },
+                "autoload": {
+                    "files": [
+                        "init.php"
+                    ],
+                    "psr-4": {
+                        "Bolt\\Extension\\Bolt\\Sitemap\\": ""
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Bob den Otter",
+                        "email": "bob@twokings.nl"
+                    },
+                    {
+                        "name": "Patrick van Kouteren",
+                        "email": "info@wedesignit.nl"
+                    }
+                ],
+                "description": "An extension to create XML sitemaps for your Bolt website.",
+                "keywords": [
+                    "SEO",
+                    "sitemap"
+                ],
+                "support": {
+                    "source": "https://github.com/bolt/Sitemap/tree/1.0.5",
+                    "issues": "https://github.com/bolt/Sitemap/issues"
+                }
+            },
+            "1.0.6": {
+                "name": "bolt/sitemap",
+                "version": "1.0.6",
+                "version_normalized": "1.0.6.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bolt/Sitemap.git",
+                    "reference": "80408a9917fef566bcaab3e384cc34477651fb90"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bolt/Sitemap/zipball/80408a9917fef566bcaab3e384cc34477651fb90",
+                    "reference": "80408a9917fef566bcaab3e384cc34477651fb90",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": ">=2.0.0,<3.0.0"
+                },
+                "time": "2016-04-30T16:43:40+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-icon": "assets/icon-sitemap.png"
+                },
+                "autoload": {
+                    "files": [
+                        "init.php"
+                    ],
+                    "psr-4": {
+                        "Bolt\\Extension\\Bolt\\Sitemap\\": ""
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Bob den Otter",
+                        "email": "bob@twokings.nl"
+                    },
+                    {
+                        "name": "Patrick van Kouteren",
+                        "email": "info@wedesignit.nl"
+                    }
+                ],
+                "description": "An extension to create XML sitemaps for your Bolt website.",
+                "keywords": [
+                    "SEO",
+                    "sitemap"
+                ],
+                "support": {
+                    "source": "https://github.com/bolt/Sitemap/tree/1.0.6",
+                    "issues": "https://github.com/bolt/Sitemap/issues"
+                }
+            },
+            "2.0.0": {
+                "name": "bolt/sitemap",
+                "version": "2.0.0",
+                "version_normalized": "2.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bolt/Sitemap.git",
+                    "reference": "9cf8008260989b68d85986156ecc681c56bd52c4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bolt/Sitemap/zipball/9cf8008260989b68d85986156ecc681c56bd52c4",
+                    "reference": "9cf8008260989b68d85986156ecc681c56bd52c4",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": "^3.0"
+                },
+                "time": "2016-05-28T11:47:51+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-icon": "icon-sitemap.png",
+                    "bolt-class": "Bolt\\Extension\\Bolt\\Sitemap\\SitemapExtension"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Bolt\\Extension\\Bolt\\Sitemap\\": "src"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Bob den Otter",
+                        "email": "bob@twokings.nl"
+                    },
+                    {
+                        "name": "Patrick van Kouteren",
+                        "email": "info@wedesignit.nl"
+                    },
+                    {
+                        "name": "Gawain Lynch",
+                        "email": "gawain.lynch@gmail.com"
+                    }
+                ],
+                "description": "An extension to create XML sitemaps for your Bolt website.",
+                "keywords": [
+                    "SEO",
+                    "sitemap"
+                ],
+                "support": {
+                    "source": "https://github.com/bolt/Sitemap/tree/2.0.0",
+                    "issues": "https://github.com/bolt/Sitemap/issues"
+                }
+            },
+            "2.0.1": {
+                "name": "bolt/sitemap",
+                "version": "2.0.1",
+                "version_normalized": "2.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bolt/Sitemap.git",
+                    "reference": "d321e61e04d2fe2e825352f1378b4ec12109b74d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bolt/Sitemap/zipball/d321e61e04d2fe2e825352f1378b4ec12109b74d",
+                    "reference": "d321e61e04d2fe2e825352f1378b4ec12109b74d",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": "^3.0"
+                },
+                "time": "2016-08-01T10:19:10+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-icon": "icon-sitemap.png",
+                    "bolt-class": "Bolt\\Extension\\Bolt\\Sitemap\\SitemapExtension"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Bolt\\Extension\\Bolt\\Sitemap\\": "src"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Bob den Otter",
+                        "email": "bob@twokings.nl"
+                    },
+                    {
+                        "name": "Patrick van Kouteren",
+                        "email": "info@wedesignit.nl"
+                    },
+                    {
+                        "name": "Gawain Lynch",
+                        "email": "gawain.lynch@gmail.com"
+                    }
+                ],
+                "description": "An extension to create XML sitemaps for your Bolt website.",
+                "keywords": [
+                    "SEO",
+                    "sitemap"
+                ],
+                "support": {
+                    "source": "https://github.com/bolt/Sitemap/tree/2.0.1",
+                    "issues": "https://github.com/bolt/Sitemap/issues"
+                }
+            },
+            "2.1.0": {
+                "name": "bolt/sitemap",
+                "version": "2.1.0",
+                "version_normalized": "2.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bolt/Sitemap.git",
+                    "reference": "5867c9a0d86ea0de21e2c910b5f0fe40c1db15e1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bolt/Sitemap/zipball/5867c9a0d86ea0de21e2c910b5f0fe40c1db15e1",
+                    "reference": "5867c9a0d86ea0de21e2c910b5f0fe40c1db15e1",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": "^3.0"
+                },
+                "time": "2017-02-26T13:59:52+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-icon": "icon-sitemap.png",
+                    "bolt-class": "Bolt\\Extension\\Bolt\\Sitemap\\SitemapExtension"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Bolt\\Extension\\Bolt\\Sitemap\\": "src"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Bob den Otter",
+                        "email": "bob@twokings.nl"
+                    },
+                    {
+                        "name": "Patrick van Kouteren",
+                        "email": "info@wedesignit.nl"
+                    },
+                    {
+                        "name": "Gawain Lynch",
+                        "email": "gawain.lynch@gmail.com"
+                    }
+                ],
+                "description": "An extension to create XML sitemaps for your Bolt website.",
+                "keywords": [
+                    "SEO",
+                    "sitemap"
+                ],
+                "support": {
+                    "source": "https://github.com/bolt/Sitemap/tree/2.1.0",
+                    "issues": "https://github.com/bolt/Sitemap/issues"
+                }
+            },
+            "2.1.1": {
+                "name": "bolt/sitemap",
+                "version": "2.1.1",
+                "version_normalized": "2.1.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bolt/Sitemap.git",
+                    "reference": "745110b0b29008d5216d608b5b1bf64695a67a2a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bolt/Sitemap/zipball/745110b0b29008d5216d608b5b1bf64695a67a2a",
+                    "reference": "745110b0b29008d5216d608b5b1bf64695a67a2a",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": "^3.0"
+                },
+                "time": "2017-05-04T10:12:13+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-icon": "icon-sitemap.png",
+                    "bolt-class": "Bolt\\Extension\\Bolt\\Sitemap\\SitemapExtension"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Bolt\\Extension\\Bolt\\Sitemap\\": "src"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Bob den Otter",
+                        "email": "bob@twokings.nl"
+                    },
+                    {
+                        "name": "Patrick van Kouteren",
+                        "email": "info@wedesignit.nl"
+                    },
+                    {
+                        "name": "Gawain Lynch",
+                        "email": "gawain.lynch@gmail.com"
+                    }
+                ],
+                "description": "An extension to create XML sitemaps for your Bolt website.",
+                "keywords": [
+                    "SEO",
+                    "sitemap"
+                ],
+                "support": {
+                    "source": "https://github.com/bolt/Sitemap/tree/2.1.1",
+                    "issues": "https://github.com/bolt/Sitemap/issues"
+                }
+            },
+            "2.2.0": {
+                "name": "bolt/sitemap",
+                "version": "2.2.0",
+                "version_normalized": "2.2.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bolt/Sitemap.git",
+                    "reference": "6a9b76fd5718787451d41b99dd1d1ffa3b308530"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bolt/Sitemap/zipball/6a9b76fd5718787451d41b99dd1d1ffa3b308530",
+                    "reference": "6a9b76fd5718787451d41b99dd1d1ffa3b308530",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": "^3.0"
+                },
+                "time": "2017-05-11T09:32:22+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-icon": "icon-sitemap.png",
+                    "bolt-class": "Bolt\\Extension\\Bolt\\Sitemap\\SitemapExtension"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Bolt\\Extension\\Bolt\\Sitemap\\": "src"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Bob den Otter",
+                        "email": "bob@twokings.nl"
+                    },
+                    {
+                        "name": "Patrick van Kouteren",
+                        "email": "info@wedesignit.nl"
+                    },
+                    {
+                        "name": "Gawain Lynch",
+                        "email": "gawain.lynch@gmail.com"
+                    }
+                ],
+                "description": "An extension to create XML sitemaps for your Bolt website.",
+                "keywords": [
+                    "SEO",
+                    "sitemap"
+                ],
+                "support": {
+                    "source": "https://github.com/bolt/Sitemap/tree/2.2.0",
+                    "issues": "https://github.com/bolt/Sitemap/issues"
+                }
+            },
+            "2.2.1": {
+                "name": "bolt/sitemap",
+                "version": "2.2.1",
+                "version_normalized": "2.2.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bolt/Sitemap.git",
+                    "reference": "4464a917786fa4388c004144e2e570f4f7a6eb1d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bolt/Sitemap/zipball/4464a917786fa4388c004144e2e570f4f7a6eb1d",
+                    "reference": "4464a917786fa4388c004144e2e570f4f7a6eb1d",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": "^3.0"
+                },
+                "time": "2017-06-15T12:37:35+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-icon": "icon-sitemap.png",
+                    "bolt-class": "Bolt\\Extension\\Bolt\\Sitemap\\SitemapExtension"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Bolt\\Extension\\Bolt\\Sitemap\\": "src"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Bob den Otter",
+                        "email": "bob@twokings.nl"
+                    },
+                    {
+                        "name": "Patrick van Kouteren",
+                        "email": "info@wedesignit.nl"
+                    },
+                    {
+                        "name": "Gawain Lynch",
+                        "email": "gawain.lynch@gmail.com"
+                    }
+                ],
+                "description": "An extension to create XML sitemaps for your Bolt website.",
+                "keywords": [
+                    "SEO",
+                    "sitemap"
+                ],
+                "support": {
+                    "source": "https://github.com/bolt/Sitemap/tree/2.2.1",
+                    "issues": "https://github.com/bolt/Sitemap/issues"
+                }
+            },
+            "2.2.2": {
+                "name": "bolt/sitemap",
+                "version": "2.2.2",
+                "version_normalized": "2.2.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bolt/Sitemap.git",
+                    "reference": "6fda428f70e2e42828a8e4fe338b7d98670f9a55"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bolt/Sitemap/zipball/6fda428f70e2e42828a8e4fe338b7d98670f9a55",
+                    "reference": "6fda428f70e2e42828a8e4fe338b7d98670f9a55",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": "^3.0"
+                },
+                "time": "2017-06-17T08:18:17+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-icon": "icon-sitemap.png",
+                    "bolt-class": "Bolt\\Extension\\Bolt\\Sitemap\\SitemapExtension"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Bolt\\Extension\\Bolt\\Sitemap\\": "src"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Bob den Otter",
+                        "email": "bob@twokings.nl"
+                    },
+                    {
+                        "name": "Patrick van Kouteren",
+                        "email": "info@wedesignit.nl"
+                    },
+                    {
+                        "name": "Gawain Lynch",
+                        "email": "gawain.lynch@gmail.com"
+                    }
+                ],
+                "description": "An extension to create XML sitemaps for your Bolt website.",
+                "keywords": [
+                    "SEO",
+                    "sitemap"
+                ],
+                "support": {
+                    "source": "https://github.com/bolt/Sitemap/tree/2.2.2",
+                    "issues": "https://github.com/bolt/Sitemap/issues"
+                }
+            },
+            "2.2.3": {
+                "name": "bolt/sitemap",
+                "version": "2.2.3",
+                "version_normalized": "2.2.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bolt/Sitemap.git",
+                    "reference": "6f9630daa9d6f8d7f06b2483c2444d780b3ffe7d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bolt/Sitemap/zipball/6f9630daa9d6f8d7f06b2483c2444d780b3ffe7d",
+                    "reference": "6f9630daa9d6f8d7f06b2483c2444d780b3ffe7d",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": "^3.0"
+                },
+                "time": "2017-06-19T12:58:13+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-icon": "icon-sitemap.png",
+                    "bolt-class": "Bolt\\Extension\\Bolt\\Sitemap\\SitemapExtension"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Bolt\\Extension\\Bolt\\Sitemap\\": "src"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Bob den Otter",
+                        "email": "bob@twokings.nl"
+                    },
+                    {
+                        "name": "Patrick van Kouteren",
+                        "email": "info@wedesignit.nl"
+                    },
+                    {
+                        "name": "Gawain Lynch",
+                        "email": "gawain.lynch@gmail.com"
+                    }
+                ],
+                "description": "An extension to create XML sitemaps for your Bolt website.",
+                "keywords": [
+                    "SEO",
+                    "sitemap"
+                ],
+                "support": {
+                    "source": "https://github.com/bolt/Sitemap/tree/2.2.3",
+                    "issues": "https://github.com/bolt/Sitemap/issues"
+                }
+            },
+            "2.3.0": {
+                "name": "bolt/sitemap",
+                "version": "2.3.0",
+                "version_normalized": "2.3.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bolt/Sitemap.git",
+                    "reference": "63aaa3df021a4325c66815426b867333f475b308"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bolt/Sitemap/zipball/63aaa3df021a4325c66815426b867333f475b308",
+                    "reference": "63aaa3df021a4325c66815426b867333f475b308",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": "^3.0"
+                },
+                "time": "2018-01-22T09:11:24+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-icon": "icon-sitemap.png",
+                    "bolt-class": "Bolt\\Extension\\Bolt\\Sitemap\\SitemapExtension",
+                    "branch-alias": {
+                        "dev-2.x": "2.3.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Bolt\\Extension\\Bolt\\Sitemap\\": "src"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Bob den Otter",
+                        "email": "bob@twokings.nl"
+                    },
+                    {
+                        "name": "Patrick van Kouteren",
+                        "email": "info@wedesignit.nl"
+                    },
+                    {
+                        "name": "Gawain Lynch",
+                        "email": "gawain.lynch@gmail.com"
+                    }
+                ],
+                "description": "An extension to create XML sitemaps for your Bolt website.",
+                "keywords": [
+                    "SEO",
+                    "sitemap"
+                ],
+                "support": {
+                    "source": "https://github.com/bolt/Sitemap/tree/2.3.0",
+                    "issues": "https://github.com/bolt/Sitemap/issues"
+                }
+            },
+            "2.4.0": {
+                "name": "bolt/sitemap",
+                "version": "2.4.0",
+                "version_normalized": "2.4.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bolt/Sitemap.git",
+                    "reference": "6559117ae4c53441d433ccfdda3e2d34e1a12492"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bolt/Sitemap/zipball/6559117ae4c53441d433ccfdda3e2d34e1a12492",
+                    "reference": "6559117ae4c53441d433ccfdda3e2d34e1a12492",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": "^3.0"
+                },
+                "time": "2018-03-15T19:00:47+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-icon": "icon-sitemap.png",
+                    "bolt-class": "Bolt\\Extension\\Bolt\\Sitemap\\SitemapExtension",
+                    "branch-alias": {
+                        "dev-2.x": "2.3.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Bolt\\Extension\\Bolt\\Sitemap\\": "src"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Bob den Otter",
+                        "email": "bob@twokings.nl"
+                    },
+                    {
+                        "name": "Patrick van Kouteren",
+                        "email": "info@wedesignit.nl"
+                    },
+                    {
+                        "name": "Gawain Lynch",
+                        "email": "gawain.lynch@gmail.com"
+                    }
+                ],
+                "description": "An extension to create XML sitemaps for your Bolt website.",
+                "keywords": [
+                    "SEO",
+                    "sitemap"
+                ],
+                "support": {
+                    "source": "https://github.com/bolt/Sitemap/tree/2.4.0",
+                    "issues": "https://github.com/bolt/Sitemap/issues"
+                }
+            },
+            "2.5.0": {
+                "name": "bolt/sitemap",
+                "version": "2.5.0",
+                "version_normalized": "2.5.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bolt/Sitemap.git",
+                    "reference": "f7e67187c7fddd0335e90d5ae000c471593ed6bc"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bolt/Sitemap/zipball/f7e67187c7fddd0335e90d5ae000c471593ed6bc",
+                    "reference": "f7e67187c7fddd0335e90d5ae000c471593ed6bc",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": "^3.0"
+                },
+                "time": "2018-06-03T09:18:36+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-icon": "icon-sitemap.png",
+                    "bolt-class": "Bolt\\Extension\\Bolt\\Sitemap\\SitemapExtension",
+                    "branch-alias": {
+                        "dev-2.x": "2.3.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Bolt\\Extension\\Bolt\\Sitemap\\": "src"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Bob den Otter",
+                        "email": "bob@twokings.nl"
+                    },
+                    {
+                        "name": "Patrick van Kouteren",
+                        "email": "info@wedesignit.nl"
+                    },
+                    {
+                        "name": "Gawain Lynch",
+                        "email": "gawain.lynch@gmail.com"
+                    }
+                ],
+                "description": "An extension to create XML sitemaps for your Bolt website.",
+                "keywords": [
+                    "SEO",
+                    "sitemap"
+                ],
+                "support": {
+                    "source": "https://github.com/bolt/Sitemap/tree/2.5.0",
+                    "issues": "https://github.com/bolt/Sitemap/issues"
+                }
+            },
+            "2.6.0": {
+                "name": "bolt/sitemap",
+                "version": "2.6.0",
+                "version_normalized": "2.6.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bolt/Sitemap.git",
+                    "reference": "cb58a95df47e355a2e9f1fa318d0972364d1b724"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bolt/Sitemap/zipball/cb58a95df47e355a2e9f1fa318d0972364d1b724",
+                    "reference": "cb58a95df47e355a2e9f1fa318d0972364d1b724",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": "^3.0"
+                },
+                "time": "2019-10-20T16:50:44+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-icon": "icon-sitemap.png",
+                    "bolt-class": "Bolt\\Extension\\Bolt\\Sitemap\\SitemapExtension",
+                    "branch-alias": {
+                        "dev-2.x": "2.3.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Bolt\\Extension\\Bolt\\Sitemap\\": "src"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Bob den Otter",
+                        "email": "bob@twokings.nl"
+                    },
+                    {
+                        "name": "Patrick van Kouteren",
+                        "email": "info@wedesignit.nl"
+                    },
+                    {
+                        "name": "Gawain Lynch",
+                        "email": "gawain.lynch@gmail.com"
+                    }
+                ],
+                "description": "An extension to create XML sitemaps for your Bolt website.",
+                "keywords": [
+                    "SEO",
+                    "sitemap"
+                ],
+                "support": {
+                    "source": "https://github.com/bolt/Sitemap/tree/2.6.0",
+                    "issues": "https://github.com/bolt/Sitemap/issues"
+                }
+            },
+            "2.x-dev": {
+                "name": "bolt/sitemap",
+                "version": "2.x-dev",
+                "version_normalized": "2.9999999.9999999.9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bolt/Sitemap.git",
+                    "reference": "cb58a95df47e355a2e9f1fa318d0972364d1b724"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bolt/Sitemap/zipball/cb58a95df47e355a2e9f1fa318d0972364d1b724",
+                    "reference": "cb58a95df47e355a2e9f1fa318d0972364d1b724",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": "^3.0"
+                },
+                "time": "2019-10-20T16:50:44+00:00",
+                "default-branch": true,
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-icon": "icon-sitemap.png",
+                    "bolt-class": "Bolt\\Extension\\Bolt\\Sitemap\\SitemapExtension",
+                    "branch-alias": {
+                        "dev-2.x": "2.3.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Bolt\\Extension\\Bolt\\Sitemap\\": "src"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Bob den Otter",
+                        "email": "bob@twokings.nl"
+                    },
+                    {
+                        "name": "Patrick van Kouteren",
+                        "email": "info@wedesignit.nl"
+                    },
+                    {
+                        "name": "Gawain Lynch",
+                        "email": "gawain.lynch@gmail.com"
+                    }
+                ],
+                "description": "An extension to create XML sitemaps for your Bolt website.",
+                "keywords": [
+                    "SEO",
+                    "sitemap"
+                ],
+                "support": {
+                    "source": "https://github.com/bolt/Sitemap/tree/2.6.0",
+                    "issues": "https://github.com/bolt/Sitemap/issues"
+                }
+            },
+            "dev-bolt-2": {
+                "name": "bolt/sitemap",
+                "version": "dev-bolt-2",
+                "version_normalized": "dev-bolt-2",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bolt/Sitemap.git",
+                    "reference": "80408a9917fef566bcaab3e384cc34477651fb90"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bolt/Sitemap/zipball/80408a9917fef566bcaab3e384cc34477651fb90",
+                    "reference": "80408a9917fef566bcaab3e384cc34477651fb90",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": ">=2.0.0,<3.0.0"
+                },
+                "time": "2016-04-30T16:43:40+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-icon": "assets/icon-sitemap.png"
+                },
+                "autoload": {
+                    "files": [
+                        "init.php"
+                    ],
+                    "psr-4": {
+                        "Bolt\\Extension\\Bolt\\Sitemap\\": ""
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Bob den Otter",
+                        "email": "bob@twokings.nl"
+                    },
+                    {
+                        "name": "Patrick van Kouteren",
+                        "email": "info@wedesignit.nl"
+                    }
+                ],
+                "description": "An extension to create XML sitemaps for your Bolt website.",
+                "keywords": [
+                    "SEO",
+                    "sitemap"
+                ],
+                "support": {
+                    "source": "https://github.com/bolt/Sitemap/tree/1.0.6",
+                    "issues": "https://github.com/bolt/Sitemap/issues"
+                }
+            },
+            "dev-master": {
+                "name": "bolt/sitemap",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bolt/Sitemap.git",
+                    "reference": "7bc17da273baac339acd6bcedd25404ad2df7bc6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bolt/Sitemap/zipball/7bc17da273baac339acd6bcedd25404ad2df7bc6",
+                    "reference": "7bc17da273baac339acd6bcedd25404ad2df7bc6",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": "^4.0"
+                },
+                "time": "2018-01-22T09:28:51+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-icon": "icon-sitemap.png",
+                    "bolt-class": "Bolt\\Extension\\Bolt\\Sitemap\\SitemapExtension",
+                    "branch-alias": {
+                        "dev-master": "4.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Bolt\\Extension\\Bolt\\Sitemap\\": "src"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Bob den Otter",
+                        "email": "bob@twokings.nl"
+                    },
+                    {
+                        "name": "Patrick van Kouteren",
+                        "email": "info@wedesignit.nl"
+                    },
+                    {
+                        "name": "Gawain Lynch",
+                        "email": "gawain.lynch@gmail.com"
+                    }
+                ],
+                "description": "An extension to create XML sitemaps for your Bolt website.",
+                "keywords": [
+                    "SEO",
+                    "sitemap"
+                ],
+                "support": {
+                    "source": "https://github.com/bolt/Sitemap/tree/master",
+                    "issues": "https://github.com/bolt/Sitemap/issues"
+                }
+            }
+        },
+        "sahassar/boltredirector": {
+            "1.0.0": {
+                "name": "sahassar/boltredirector",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/LulububuApps/boltredirector.git",
+                    "reference": "84c3d41c0a773d070345530991caa38bece33bdb"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/LulububuApps/boltredirector/zipball/84c3d41c0a773d070345530991caa38bece33bdb",
+                    "reference": "84c3d41c0a773d070345530991caa38bece33bdb",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": ">=2.0.0,<3.0.0"
+                },
+                "time": "2014-08-30T11:46:43+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0.*"
+                    }
+                },
+                "autoload": {
+                    "files": [
+                        "init.php"
+                    ],
+                    "psr-4": {
+                        "Bolt\\Extension\\FoundryCode\\": ""
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Mike Anthony",
+                        "email": "code@foundrybusiness.co.za"
+                    }
+                ],
+                "description": "Easily manage 301 redirects; useful for migrating from another platform.",
+                "keywords": [
+                    "301",
+                    "migration",
+                    "redirect"
+                ],
+                "support": {
+                    "source": "https://github.com/LulububuApps/boltredirector/tree/1.0.0",
+                    "issues": "https://github.com/LulububuApps/boltredirector/issues"
+                }
+            },
+            "1.0.1": {
+                "name": "sahassar/boltredirector",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/LulububuApps/boltredirector.git",
+                    "reference": "e64f56570f4e63455fa8c16bd32e76513fa2656f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/LulububuApps/boltredirector/zipball/e64f56570f4e63455fa8c16bd32e76513fa2656f",
+                    "reference": "e64f56570f4e63455fa8c16bd32e76513fa2656f",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": ">=2.0.0,<3.0.0"
+                },
+                "time": "2014-11-01T05:25:01+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0.*"
+                    }
+                },
+                "autoload": {
+                    "files": [
+                        "init.php"
+                    ],
+                    "psr-4": {
+                        "Bolt\\Extension\\FoundryCode\\": ""
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Mike Anthony",
+                        "email": "code@foundrybusiness.co.za"
+                    }
+                ],
+                "description": "Easily manage 301 redirects; useful for migrating from another platform.",
+                "keywords": [
+                    "301",
+                    "migration",
+                    "redirect"
+                ],
+                "support": {
+                    "source": "https://github.com/LulububuApps/boltredirector/tree/1.0.1",
+                    "issues": "https://github.com/LulububuApps/boltredirector/issues"
+                }
+            },
+            "2.0.0": {
+                "name": "sahassar/boltredirector",
+                "version": "2.0.0",
+                "version_normalized": "2.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/LulububuApps/boltredirector.git",
+                    "reference": "caaddf4cfbc376a9dfe501b9f8601890ffd2c208"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/LulububuApps/boltredirector/zipball/caaddf4cfbc376a9dfe501b9f8601890ffd2c208",
+                    "reference": "caaddf4cfbc376a9dfe501b9f8601890ffd2c208",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": "^3.0"
+                },
+                "time": "2016-08-06T08:44:23+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-class": "Bolt\\Extension\\Sahassar\\Boltredirector\\BoltredirectorExtension"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Bolt\\Extension\\Sahassar\\Boltredirector\\": "src"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Mike Anthony",
+                        "email": "code@foundrybusiness.co.za"
+                    },
+                    {
+                        "name": "Svante Richter",
+                        "email": "svante.richter@gmail.com"
+                    }
+                ],
+                "description": "Easily manage 301 redirects; useful for migrating from another platform.",
+                "keywords": [
+                    "301",
+                    "migration",
+                    "redirect"
+                ],
+                "support": {
+                    "source": "https://github.com/LulububuApps/boltredirector/tree/2.0.0",
+                    "issues": "https://github.com/LulububuApps/boltredirector/issues"
+                }
+            },
+            "2.0.0-beta1": {
+                "name": "sahassar/boltredirector",
+                "version": "2.0.0-beta1",
+                "version_normalized": "2.0.0.0-beta1",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/LulububuApps/boltredirector.git",
+                    "reference": "aacd82493ec50f73d981c9f56761bbb417e889c9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/LulububuApps/boltredirector/zipball/aacd82493ec50f73d981c9f56761bbb417e889c9",
+                    "reference": "aacd82493ec50f73d981c9f56761bbb417e889c9",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": "^3.0"
+                },
+                "time": "2016-08-05T13:25:06+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-class": "Bolt\\Extension\\Sahassar\\Boltredirector\\BoltredirectorExtension"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Bolt\\Extension\\Sahassar\\Boltredirector\\": "src"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Mike Anthony",
+                        "email": "code@foundrybusiness.co.za"
+                    },
+                    {
+                        "name": "Svante Richter",
+                        "email": "svante.richter@gmail.com"
+                    }
+                ],
+                "description": "Easily manage 301 redirects; useful for migrating from another platform.",
+                "keywords": [
+                    "301",
+                    "migration",
+                    "redirect"
+                ],
+                "support": {
+                    "source": "https://github.com/LulububuApps/boltredirector/tree/2.0.0-beta1",
+                    "issues": "https://github.com/LulububuApps/boltredirector/issues"
+                }
+            },
+            "2.0.1": {
+                "name": "sahassar/boltredirector",
+                "version": "2.0.1",
+                "version_normalized": "2.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/LulububuApps/boltredirector.git",
+                    "reference": "0449e844c069524e36e86b76740b1c5743551cac"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/LulububuApps/boltredirector/zipball/0449e844c069524e36e86b76740b1c5743551cac",
+                    "reference": "0449e844c069524e36e86b76740b1c5743551cac",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": "^3.0"
+                },
+                "time": "2016-09-29T18:42:25+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-class": "Bolt\\Extension\\Sahassar\\Boltredirector\\BoltredirectorExtension"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Bolt\\Extension\\Sahassar\\Boltredirector\\": "src"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Mike Anthony",
+                        "email": "code@foundrybusiness.co.za"
+                    },
+                    {
+                        "name": "Svante Richter",
+                        "email": "svante.richter@gmail.com"
+                    }
+                ],
+                "description": "Easily manage 301 redirects; useful for migrating from another platform.",
+                "keywords": [
+                    "301",
+                    "migration",
+                    "redirect"
+                ],
+                "support": {
+                    "source": "https://github.com/LulububuApps/boltredirector/tree/2.0.1",
+                    "issues": "https://github.com/LulububuApps/boltredirector/issues"
+                }
+            },
+            "2.0.2": {
+                "name": "sahassar/boltredirector",
+                "version": "2.0.2",
+                "version_normalized": "2.0.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/LulububuApps/boltredirector.git",
+                    "reference": "3ef9f2b9308a3075f593d1714fdef4cae782c0f6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/LulububuApps/boltredirector/zipball/3ef9f2b9308a3075f593d1714fdef4cae782c0f6",
+                    "reference": "3ef9f2b9308a3075f593d1714fdef4cae782c0f6",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": "^3.0"
+                },
+                "time": "2017-09-21T20:11:49+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-class": "Bolt\\Extension\\Sahassar\\Boltredirector\\BoltredirectorExtension"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Bolt\\Extension\\Sahassar\\Boltredirector\\": "src"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Mike Anthony",
+                        "email": "code@foundrybusiness.co.za"
+                    },
+                    {
+                        "name": "Svante Richter",
+                        "email": "svante.richter@gmail.com"
+                    }
+                ],
+                "description": "Easily manage 301 redirects; useful for migrating from another platform.",
+                "keywords": [
+                    "301",
+                    "migration",
+                    "redirect"
+                ],
+                "support": {
+                    "source": "https://github.com/LulububuApps/boltredirector/tree/2.0.2",
+                    "issues": "https://github.com/LulububuApps/boltredirector/issues"
+                }
+            },
+            "2.1": {
+                "name": "sahassar/boltredirector",
+                "version": "2.1",
+                "version_normalized": "2.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/LulububuApps/boltredirector.git",
+                    "reference": "84c983605d6da635426f796813c0b9f2d9634c15"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/LulububuApps/boltredirector/zipball/84c983605d6da635426f796813c0b9f2d9634c15",
+                    "reference": "84c983605d6da635426f796813c0b9f2d9634c15",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": "^3.0"
+                },
+                "time": "2017-09-26T20:29:19+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-class": "Bolt\\Extension\\Sahassar\\Boltredirector\\BoltredirectorExtension"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Bolt\\Extension\\Sahassar\\Boltredirector\\": "src"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Mike Anthony",
+                        "email": "code@foundrybusiness.co.za"
+                    },
+                    {
+                        "name": "Svante Richter",
+                        "email": "svante.richter@gmail.com"
+                    }
+                ],
+                "description": "Easily manage 301 redirects; useful for migrating from another platform.",
+                "keywords": [
+                    "301",
+                    "migration",
+                    "redirect"
+                ],
+                "support": {
+                    "source": "https://github.com/LulububuApps/boltredirector/tree/2.1",
+                    "issues": "https://github.com/LulububuApps/boltredirector/issues"
+                }
+            },
+            "2.1.1": {
+                "name": "sahassar/boltredirector",
+                "version": "2.1.1",
+                "version_normalized": "2.1.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/LulububuApps/boltredirector.git",
+                    "reference": "cc4e1eade10fdfccb800bc7a08c63b4c92d74d96"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/LulububuApps/boltredirector/zipball/cc4e1eade10fdfccb800bc7a08c63b4c92d74d96",
+                    "reference": "cc4e1eade10fdfccb800bc7a08c63b4c92d74d96",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": "^3.0"
+                },
+                "time": "2019-10-31T15:07:12+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-class": "Bolt\\Extension\\Sahassar\\Boltredirector\\BoltredirectorExtension"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Bolt\\Extension\\Sahassar\\Boltredirector\\": "src"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Mike Anthony",
+                        "email": "code@foundrybusiness.co.za"
+                    },
+                    {
+                        "name": "Svante Richter",
+                        "email": "svante.richter@gmail.com"
+                    }
+                ],
+                "description": "Easily manage 301 redirects; useful for migrating from another platform.",
+                "keywords": [
+                    "301",
+                    "migration",
+                    "redirect"
+                ],
+                "support": {
+                    "source": "https://github.com/LulububuApps/boltredirector/tree/2.1.1",
+                    "issues": "https://github.com/LulububuApps/boltredirector/issues"
+                }
+            },
+            "dev-bolt-v2": {
+                "name": "sahassar/boltredirector",
+                "version": "dev-bolt-v2",
+                "version_normalized": "dev-bolt-v2",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/LulububuApps/boltredirector.git",
+                    "reference": "da94f5c497646078df4be16b889f11f5be0b92b8"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/LulububuApps/boltredirector/zipball/da94f5c497646078df4be16b889f11f5be0b92b8",
+                    "reference": "da94f5c497646078df4be16b889f11f5be0b92b8",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": ">=2.0.0,<3.0.0"
+                },
+                "time": "2016-05-12T16:27:58+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0.*"
+                    }
+                },
+                "autoload": {
+                    "files": [
+                        "init.php"
+                    ],
+                    "psr-4": {
+                        "Bolt\\Extension\\FoundryCode\\": ""
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Mike Anthony",
+                        "email": "code@foundrybusiness.co.za"
+                    }
+                ],
+                "description": "Easily manage 301 redirects; useful for migrating from another platform.",
+                "keywords": [
+                    "301",
+                    "migration",
+                    "redirect"
+                ],
+                "support": {
+                    "source": "https://github.com/LulububuApps/boltredirector/tree/bolt-v2",
+                    "issues": "https://github.com/LulububuApps/boltredirector/issues"
+                }
+            },
+            "dev-bugfix/invalid-config-catch": {
+                "name": "sahassar/boltredirector",
+                "version": "dev-bugfix/invalid-config-catch",
+                "version_normalized": "dev-bugfix/invalid-config-catch",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/LulububuApps/boltredirector.git",
+                    "reference": "8bf7ad382cac5b73817dae613871486b81b02dda"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/LulububuApps/boltredirector/zipball/8bf7ad382cac5b73817dae613871486b81b02dda",
+                    "reference": "8bf7ad382cac5b73817dae613871486b81b02dda",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": "^3.0"
+                },
+                "time": "2019-10-31T15:05:31+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-class": "Bolt\\Extension\\Sahassar\\Boltredirector\\BoltredirectorExtension"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Bolt\\Extension\\Sahassar\\Boltredirector\\": "src"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Mike Anthony",
+                        "email": "code@foundrybusiness.co.za"
+                    },
+                    {
+                        "name": "Svante Richter",
+                        "email": "svante.richter@gmail.com"
+                    }
+                ],
+                "description": "Easily manage 301 redirects; useful for migrating from another platform.",
+                "keywords": [
+                    "301",
+                    "migration",
+                    "redirect"
+                ],
+                "support": {
+                    "source": "https://github.com/LulububuApps/boltredirector/tree/bugfix/invalid-config-catch",
+                    "issues": "https://github.com/LulububuApps/boltredirector/issues"
+                }
+            },
+            "dev-feature/LULUBUBU-609-maintainers-removed-readme": {
+                "name": "sahassar/boltredirector",
+                "version": "dev-feature/LULUBUBU-609-maintainers-removed-readme",
+                "version_normalized": "dev-feature/LULUBUBU-609-maintainers-removed-readme",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/LulububuApps/boltredirector.git",
+                    "reference": "3c0bb9e68f3f9a7e55a3a8a562d09fbdfa257beb"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/LulububuApps/boltredirector/zipball/3c0bb9e68f3f9a7e55a3a8a562d09fbdfa257beb",
+                    "reference": "3c0bb9e68f3f9a7e55a3a8a562d09fbdfa257beb",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": "^3.0"
+                },
+                "time": "2019-11-04T14:16:35+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-class": "Bolt\\Extension\\Sahassar\\Boltredirector\\BoltredirectorExtension"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Bolt\\Extension\\Sahassar\\Boltredirector\\": "src"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Mike Anthony",
+                        "email": "code@foundrybusiness.co.za"
+                    },
+                    {
+                        "name": "Svante Richter",
+                        "email": "svante.richter@gmail.com"
+                    }
+                ],
+                "description": "Easily manage 301 redirects; useful for migrating from another platform.",
+                "keywords": [
+                    "301",
+                    "migration",
+                    "redirect"
+                ],
+                "support": {
+                    "source": "https://github.com/LulububuApps/boltredirector/tree/feature/LULUBUBU-609-maintainers-removed-readme",
+                    "issues": "https://github.com/LulububuApps/boltredirector/issues"
+                }
+            },
+            "dev-master": {
+                "name": "sahassar/boltredirector",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/LulububuApps/boltredirector.git",
+                    "reference": "4156cbae5a0f91ec167fa0babaf49ecae92a0d69"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/LulububuApps/boltredirector/zipball/4156cbae5a0f91ec167fa0babaf49ecae92a0d69",
+                    "reference": "4156cbae5a0f91ec167fa0babaf49ecae92a0d69",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": "^3.0"
+                },
+                "time": "2019-12-06T11:59:34+00:00",
+                "default-branch": true,
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-class": "Bolt\\Extension\\Sahassar\\Boltredirector\\BoltredirectorExtension"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Bolt\\Extension\\Sahassar\\Boltredirector\\": "src"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Mike Anthony",
+                        "email": "code@foundrybusiness.co.za"
+                    },
+                    {
+                        "name": "Svante Richter",
+                        "email": "svante.richter@gmail.com"
+                    }
+                ],
+                "description": "Easily manage 301 redirects; useful for migrating from another platform.",
+                "keywords": [
+                    "301",
+                    "migration",
+                    "redirect"
+                ],
+                "support": {
+                    "source": "https://github.com/LulububuApps/boltredirector/tree/master",
+                    "issues": "https://github.com/LulububuApps/boltredirector/issues"
+                }
+            }
+        }
+    }
+}

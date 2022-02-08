@@ -1,0 +1,1526 @@
+{
+    "packages": {
+        "bobdenotter/seo": [
+            {
+                "name": "bobdenotter/seo",
+                "version": "0.10.0",
+                "version_normalized": "0.10.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bobdenotter/seo.git",
+                    "reference": "f94ec0f8c80bc8c68a7304df60dc570ab24f94e0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bobdenotter/seo/zipball/f94ec0f8c80bc8c68a7304df60dc570ab24f94e0",
+                    "reference": "f94ec0f8c80bc8c68a7304df60dc570ab24f94e0",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": "^3.0"
+                },
+                "time": "2016-04-30T14:12:44+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-assets": "web",
+                    "bolt-class": "Bolt\\Extension\\BobdenOtter\\Seo\\SeoExtension"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Bolt\\Extension\\BobdenOtter\\Seo\\": "src"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Bob den Otter",
+                        "email": "bob@twokings.nl"
+                    }
+                ],
+                "description": "An extension to easily manage SEO title, meta description and OG tags.",
+                "support": {
+                    "source": "https://github.com/bobdenotter/seo/tree/0.10.0",
+                    "issues": "https://github.com/bobdenotter/seo/issues"
+                }
+            },
+            {
+                "name": "bobdenotter/seo",
+                "version": "0.10.1",
+                "version_normalized": "0.10.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bobdenotter/seo.git",
+                    "reference": "5f8288aa7d44dd55b448e8ac92ec2bb25e6175fd"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bobdenotter/seo/zipball/5f8288aa7d44dd55b448e8ac92ec2bb25e6175fd",
+                    "reference": "5f8288aa7d44dd55b448e8ac92ec2bb25e6175fd",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": "^3.0"
+                },
+                "time": "2016-05-28T12:21:41+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-assets": "web",
+                    "bolt-class": "Bolt\\Extension\\BobdenOtter\\Seo\\SeoExtension"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Bolt\\Extension\\BobdenOtter\\Seo\\": "src"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Bob den Otter",
+                        "email": "bob@twokings.nl"
+                    }
+                ],
+                "description": "An extension to easily manage SEO title, meta description and OG tags.",
+                "support": {
+                    "source": "https://github.com/bobdenotter/seo/tree/0.10.1",
+                    "issues": "https://github.com/bobdenotter/seo/issues"
+                }
+            },
+            {
+                "name": "bobdenotter/seo",
+                "version": "0.10.2",
+                "version_normalized": "0.10.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bobdenotter/seo.git",
+                    "reference": "8ba95320c0ba3dc2a1533ac8ba065b65ad3023a6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bobdenotter/seo/zipball/8ba95320c0ba3dc2a1533ac8ba065b65ad3023a6",
+                    "reference": "8ba95320c0ba3dc2a1533ac8ba065b65ad3023a6",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": "^3.0"
+                },
+                "time": "2016-06-21T18:36:03+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-assets": "web",
+                    "bolt-class": "Bolt\\Extension\\BobdenOtter\\Seo\\SeoExtension"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Bolt\\Extension\\BobdenOtter\\Seo\\": "src"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Bob den Otter",
+                        "email": "bob@twokings.nl"
+                    }
+                ],
+                "description": "An extension to easily manage SEO title, meta description and OG tags.",
+                "support": {
+                    "source": "https://github.com/bobdenotter/seo/tree/0.10.2",
+                    "issues": "https://github.com/bobdenotter/seo/issues"
+                }
+            },
+            {
+                "name": "bobdenotter/seo",
+                "version": "0.10.3",
+                "version_normalized": "0.10.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bobdenotter/seo.git",
+                    "reference": "f562dc87ed7b73220520a3679234a79fc2238dd6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bobdenotter/seo/zipball/f562dc87ed7b73220520a3679234a79fc2238dd6",
+                    "reference": "f562dc87ed7b73220520a3679234a79fc2238dd6",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": "^3.0"
+                },
+                "time": "2016-07-07T07:56:29+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-assets": "web",
+                    "bolt-class": "Bolt\\Extension\\BobdenOtter\\Seo\\SeoExtension"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Bolt\\Extension\\BobdenOtter\\Seo\\": "src"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Bob den Otter",
+                        "email": "bob@twokings.nl"
+                    }
+                ],
+                "description": "An extension to easily manage SEO title, meta description and OG tags.",
+                "support": {
+                    "source": "https://github.com/bobdenotter/seo/tree/0.10.3",
+                    "issues": "https://github.com/bobdenotter/seo/issues"
+                }
+            },
+            {
+                "name": "bobdenotter/seo",
+                "version": "0.11.0",
+                "version_normalized": "0.11.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bobdenotter/seo.git",
+                    "reference": "3a52ed514e17c5f77092441fb1beb88049c19ae3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bobdenotter/seo/zipball/3a52ed514e17c5f77092441fb1beb88049c19ae3",
+                    "reference": "3a52ed514e17c5f77092441fb1beb88049c19ae3",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": "^3.0"
+                },
+                "time": "2016-11-02T11:16:29+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-assets": "web",
+                    "bolt-class": "Bolt\\Extension\\BobdenOtter\\Seo\\SeoExtension"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Bolt\\Extension\\BobdenOtter\\Seo\\": "src"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Bob den Otter",
+                        "email": "bob@twokings.nl"
+                    }
+                ],
+                "description": "An extension to easily manage SEO title, meta description and OG tags.",
+                "support": {
+                    "source": "https://github.com/bobdenotter/seo/tree/0.11.0",
+                    "issues": "https://github.com/bobdenotter/seo/issues"
+                }
+            },
+            {
+                "name": "bobdenotter/seo",
+                "version": "0.12.0",
+                "version_normalized": "0.12.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bobdenotter/seo.git",
+                    "reference": "a91291b113aa98e21343bba1a27448cb7610d752"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bobdenotter/seo/zipball/a91291b113aa98e21343bba1a27448cb7610d752",
+                    "reference": "a91291b113aa98e21343bba1a27448cb7610d752",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": "^3.0"
+                },
+                "time": "2016-11-22T17:28:40+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-assets": "web",
+                    "bolt-class": "Bolt\\Extension\\BobdenOtter\\Seo\\SeoExtension"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Bolt\\Extension\\BobdenOtter\\Seo\\": "src"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Bob den Otter",
+                        "email": "bob@twokings.nl"
+                    }
+                ],
+                "description": "An extension to easily manage SEO title, meta description and OG tags.",
+                "support": {
+                    "source": "https://github.com/bobdenotter/seo/tree/0.12.0",
+                    "issues": "https://github.com/bobdenotter/seo/issues"
+                }
+            },
+            {
+                "name": "bobdenotter/seo",
+                "version": "0.12.1",
+                "version_normalized": "0.12.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bobdenotter/seo.git",
+                    "reference": "8f6dd78b5ba2c14f54c57a90736d7908415ad71f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bobdenotter/seo/zipball/8f6dd78b5ba2c14f54c57a90736d7908415ad71f",
+                    "reference": "8f6dd78b5ba2c14f54c57a90736d7908415ad71f",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": "^3.0"
+                },
+                "time": "2016-12-07T11:59:09+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-assets": "web",
+                    "bolt-class": "Bolt\\Extension\\BobdenOtter\\Seo\\SeoExtension"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Bolt\\Extension\\BobdenOtter\\Seo\\": "src"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Bob den Otter",
+                        "email": "bob@twokings.nl"
+                    }
+                ],
+                "description": "An extension to easily manage SEO title, meta description and OG tags.",
+                "support": {
+                    "source": "https://github.com/bobdenotter/seo/tree/0.12.1",
+                    "issues": "https://github.com/bobdenotter/seo/issues"
+                }
+            },
+            {
+                "name": "bobdenotter/seo",
+                "version": "0.13.0",
+                "version_normalized": "0.13.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bobdenotter/seo.git",
+                    "reference": "92270c1907f8906614f3c5445e3e49907c32c4fe"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bobdenotter/seo/zipball/92270c1907f8906614f3c5445e3e49907c32c4fe",
+                    "reference": "92270c1907f8906614f3c5445e3e49907c32c4fe",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": "^3.0"
+                },
+                "time": "2017-01-20T13:09:50+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-assets": "web",
+                    "bolt-class": "Bolt\\Extension\\BobdenOtter\\Seo\\SeoExtension"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Bolt\\Extension\\BobdenOtter\\Seo\\": "src"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Bob den Otter",
+                        "email": "bob@twokings.nl"
+                    }
+                ],
+                "description": "An extension to easily manage SEO title, meta description and OG tags.",
+                "support": {
+                    "source": "https://github.com/bobdenotter/seo/tree/0.13.0",
+                    "issues": "https://github.com/bobdenotter/seo/issues"
+                }
+            },
+            {
+                "name": "bobdenotter/seo",
+                "version": "0.14.0",
+                "version_normalized": "0.14.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bobdenotter/seo.git",
+                    "reference": "5c0f7b2e14775be76f948fd90645900f98670810"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bobdenotter/seo/zipball/5c0f7b2e14775be76f948fd90645900f98670810",
+                    "reference": "5c0f7b2e14775be76f948fd90645900f98670810",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": "^3.0"
+                },
+                "time": "2017-01-20T14:07:07+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-assets": "web",
+                    "bolt-class": "Bolt\\Extension\\BobdenOtter\\Seo\\SeoExtension"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Bolt\\Extension\\BobdenOtter\\Seo\\": "src"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Bob den Otter",
+                        "email": "bob@twokings.nl"
+                    }
+                ],
+                "description": "An extension to easily manage SEO title, meta description and OG tags.",
+                "support": {
+                    "source": "https://github.com/bobdenotter/seo/tree/0.14.0",
+                    "issues": "https://github.com/bobdenotter/seo/issues"
+                }
+            },
+            {
+                "name": "bobdenotter/seo",
+                "version": "0.14.1",
+                "version_normalized": "0.14.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bobdenotter/seo.git",
+                    "reference": "8f4948241b89142672053f88ea33ab6ecc783737"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bobdenotter/seo/zipball/8f4948241b89142672053f88ea33ab6ecc783737",
+                    "reference": "8f4948241b89142672053f88ea33ab6ecc783737",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": "^3.0"
+                },
+                "time": "2017-02-06T17:16:37+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-assets": "web",
+                    "bolt-class": "Bolt\\Extension\\BobdenOtter\\Seo\\SeoExtension"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Bolt\\Extension\\BobdenOtter\\Seo\\": "src"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Bob den Otter",
+                        "email": "bob@twokings.nl"
+                    }
+                ],
+                "description": "An extension to easily manage SEO title, meta description and OG tags.",
+                "support": {
+                    "source": "https://github.com/bobdenotter/seo/tree/0.14.1",
+                    "issues": "https://github.com/bobdenotter/seo/issues"
+                }
+            },
+            {
+                "name": "bobdenotter/seo",
+                "version": "0.14.2",
+                "version_normalized": "0.14.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bobdenotter/seo.git",
+                    "reference": "1d9bd647137124852c799470754b4054e3b88f99"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bobdenotter/seo/zipball/1d9bd647137124852c799470754b4054e3b88f99",
+                    "reference": "1d9bd647137124852c799470754b4054e3b88f99",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": "^3.0"
+                },
+                "time": "2017-04-06T15:36:42+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-assets": "web",
+                    "bolt-class": "Bolt\\Extension\\BobdenOtter\\Seo\\SeoExtension"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Bolt\\Extension\\BobdenOtter\\Seo\\": "src"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Bob den Otter",
+                        "email": "bob@twokings.nl"
+                    }
+                ],
+                "description": "An extension to easily manage SEO title, meta description and OG tags.",
+                "support": {
+                    "source": "https://github.com/bobdenotter/seo/tree/0.14.2",
+                    "issues": "https://github.com/bobdenotter/seo/issues"
+                }
+            },
+            {
+                "name": "bobdenotter/seo",
+                "version": "0.9.0",
+                "version_normalized": "0.9.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bobdenotter/seo.git",
+                    "reference": "ebb3c1ad4b3f85c6ea337ebe023480a4b14ebb48"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bobdenotter/seo/zipball/ebb3c1ad4b3f85c6ea337ebe023480a4b14ebb48",
+                    "reference": "ebb3c1ad4b3f85c6ea337ebe023480a4b14ebb48",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": ">=2.1.0,<3.0.0"
+                },
+                "time": "2015-06-03T12:07:13+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-assets": "assets"
+                },
+                "autoload": {
+                    "files": [
+                        "init.php"
+                    ],
+                    "psr-4": {
+                        "Bolt\\Extension\\BobdenOtter\\Seo\\": ""
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Bob den Otter",
+                        "email": "bob@twokings.nl"
+                    }
+                ],
+                "description": "An extension to easily manage SEO title, meta description and OG tags.",
+                "support": {
+                    "source": "https://github.com/bobdenotter/seo/tree/0.9.0",
+                    "issues": "https://github.com/bobdenotter/seo/issues"
+                }
+            },
+            {
+                "name": "bobdenotter/seo",
+                "version": "0.9.10",
+                "version_normalized": "0.9.10.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bobdenotter/seo.git",
+                    "reference": "9b7d227aa0fc3dec30ae2e3d06ca1159a18e9a7e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bobdenotter/seo/zipball/9b7d227aa0fc3dec30ae2e3d06ca1159a18e9a7e",
+                    "reference": "9b7d227aa0fc3dec30ae2e3d06ca1159a18e9a7e",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": ">=2.1.0,<4.0.0"
+                },
+                "time": "2015-12-04T09:15:17+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-assets": "assets"
+                },
+                "autoload": {
+                    "files": [
+                        "init.php"
+                    ],
+                    "psr-4": {
+                        "Bolt\\Extension\\BobdenOtter\\Seo\\": ""
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Bob den Otter",
+                        "email": "bob@twokings.nl"
+                    }
+                ],
+                "description": "An extension to easily manage SEO title, meta description and OG tags.",
+                "support": {
+                    "source": "https://github.com/bobdenotter/seo/tree/0.9.10",
+                    "issues": "https://github.com/bobdenotter/seo/issues"
+                }
+            },
+            {
+                "name": "bobdenotter/seo",
+                "version": "0.9.11",
+                "version_normalized": "0.9.11.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bobdenotter/seo.git",
+                    "reference": "4b9de162dfeaa355422fff52d77ca9b742cb178c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bobdenotter/seo/zipball/4b9de162dfeaa355422fff52d77ca9b742cb178c",
+                    "reference": "4b9de162dfeaa355422fff52d77ca9b742cb178c",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": ">=2.1.0,<4.0.0"
+                },
+                "time": "2016-01-28T17:22:50+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-assets": "assets"
+                },
+                "autoload": {
+                    "files": [
+                        "init.php"
+                    ],
+                    "psr-4": {
+                        "Bolt\\Extension\\BobdenOtter\\Seo\\": ""
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Bob den Otter",
+                        "email": "bob@twokings.nl"
+                    }
+                ],
+                "description": "An extension to easily manage SEO title, meta description and OG tags.",
+                "support": {
+                    "source": "https://github.com/bobdenotter/seo/tree/0.9.11",
+                    "issues": "https://github.com/bobdenotter/seo/issues"
+                }
+            },
+            {
+                "name": "bobdenotter/seo",
+                "version": "0.9.12",
+                "version_normalized": "0.9.12.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bobdenotter/seo.git",
+                    "reference": "b391c66d8de3cc25803779dedab74a0c803f792d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bobdenotter/seo/zipball/b391c66d8de3cc25803779dedab74a0c803f792d",
+                    "reference": "b391c66d8de3cc25803779dedab74a0c803f792d",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": ">=2.1.0,<4.0.0"
+                },
+                "time": "2016-01-28T17:44:57+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-assets": "assets"
+                },
+                "autoload": {
+                    "files": [
+                        "init.php"
+                    ],
+                    "psr-4": {
+                        "Bolt\\Extension\\BobdenOtter\\Seo\\": ""
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Bob den Otter",
+                        "email": "bob@twokings.nl"
+                    }
+                ],
+                "description": "An extension to easily manage SEO title, meta description and OG tags.",
+                "support": {
+                    "source": "https://github.com/bobdenotter/seo/tree/0.9.12",
+                    "issues": "https://github.com/bobdenotter/seo/issues"
+                }
+            },
+            {
+                "name": "bobdenotter/seo",
+                "version": "0.9.13",
+                "version_normalized": "0.9.13.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bobdenotter/seo.git",
+                    "reference": "f15a333de2e48f17395cf7e0dbb43d3c89e13075"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bobdenotter/seo/zipball/f15a333de2e48f17395cf7e0dbb43d3c89e13075",
+                    "reference": "f15a333de2e48f17395cf7e0dbb43d3c89e13075",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": ">=2.1.0,<4.0.0"
+                },
+                "time": "2016-03-29T18:04:28+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-assets": "assets"
+                },
+                "autoload": {
+                    "files": [
+                        "init.php"
+                    ],
+                    "psr-4": {
+                        "Bolt\\Extension\\BobdenOtter\\Seo\\": ""
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Bob den Otter",
+                        "email": "bob@twokings.nl"
+                    }
+                ],
+                "description": "An extension to easily manage SEO title, meta description and OG tags.",
+                "support": {
+                    "source": "https://github.com/bobdenotter/seo/tree/0.9.13",
+                    "issues": "https://github.com/bobdenotter/seo/issues"
+                }
+            },
+            {
+                "name": "bobdenotter/seo",
+                "version": "0.9.2",
+                "version_normalized": "0.9.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bobdenotter/seo.git",
+                    "reference": "cafd5b81a04a1cbfab81d2aa7f63e48c4fec644e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bobdenotter/seo/zipball/cafd5b81a04a1cbfab81d2aa7f63e48c4fec644e",
+                    "reference": "cafd5b81a04a1cbfab81d2aa7f63e48c4fec644e",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": ">=2.1.0,<3.0.0"
+                },
+                "time": "2015-08-16T15:08:39+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-assets": "assets"
+                },
+                "autoload": {
+                    "files": [
+                        "init.php"
+                    ],
+                    "psr-4": {
+                        "Bolt\\Extension\\BobdenOtter\\Seo\\": ""
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Bob den Otter",
+                        "email": "bob@twokings.nl"
+                    }
+                ],
+                "description": "An extension to easily manage SEO title, meta description and OG tags.",
+                "support": {
+                    "source": "https://github.com/bobdenotter/seo/tree/0.9.2",
+                    "issues": "https://github.com/bobdenotter/seo/issues"
+                }
+            },
+            {
+                "name": "bobdenotter/seo",
+                "version": "0.9.3",
+                "version_normalized": "0.9.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bobdenotter/seo.git",
+                    "reference": "4fa18016b22fb1c30763bd76e26244d4cbc3543f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bobdenotter/seo/zipball/4fa18016b22fb1c30763bd76e26244d4cbc3543f",
+                    "reference": "4fa18016b22fb1c30763bd76e26244d4cbc3543f",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": ">=2.1.0,<3.0.0"
+                },
+                "time": "2015-09-21T19:16:19+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-assets": "assets"
+                },
+                "autoload": {
+                    "files": [
+                        "init.php"
+                    ],
+                    "psr-4": {
+                        "Bolt\\Extension\\BobdenOtter\\Seo\\": ""
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Bob den Otter",
+                        "email": "bob@twokings.nl"
+                    }
+                ],
+                "description": "An extension to easily manage SEO title, meta description and OG tags.",
+                "support": {
+                    "source": "https://github.com/bobdenotter/seo/tree/0.9.3",
+                    "issues": "https://github.com/bobdenotter/seo/issues"
+                }
+            },
+            {
+                "name": "bobdenotter/seo",
+                "version": "0.9.5",
+                "version_normalized": "0.9.5.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bobdenotter/seo.git",
+                    "reference": "d2f2fde88b9178480d50d4cc21996ecbe2c33c04"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bobdenotter/seo/zipball/d2f2fde88b9178480d50d4cc21996ecbe2c33c04",
+                    "reference": "d2f2fde88b9178480d50d4cc21996ecbe2c33c04",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": ">=2.1.0,<3.0.0"
+                },
+                "time": "2015-10-15T19:20:51+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-assets": "assets"
+                },
+                "autoload": {
+                    "files": [
+                        "init.php"
+                    ],
+                    "psr-4": {
+                        "Bolt\\Extension\\BobdenOtter\\Seo\\": ""
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Bob den Otter",
+                        "email": "bob@twokings.nl"
+                    }
+                ],
+                "description": "An extension to easily manage SEO title, meta description and OG tags.",
+                "support": {
+                    "source": "https://github.com/bobdenotter/seo/tree/0.9.5",
+                    "issues": "https://github.com/bobdenotter/seo/issues"
+                }
+            },
+            {
+                "name": "bobdenotter/seo",
+                "version": "0.9.6",
+                "version_normalized": "0.9.6.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bobdenotter/seo.git",
+                    "reference": "74b17b2e8809bb1c363a15411febd96386d526a4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bobdenotter/seo/zipball/74b17b2e8809bb1c363a15411febd96386d526a4",
+                    "reference": "74b17b2e8809bb1c363a15411febd96386d526a4",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": ">=2.1.0,<3.0.0"
+                },
+                "time": "2015-10-16T07:03:25+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-assets": "assets"
+                },
+                "autoload": {
+                    "files": [
+                        "init.php"
+                    ],
+                    "psr-4": {
+                        "Bolt\\Extension\\BobdenOtter\\Seo\\": ""
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Bob den Otter",
+                        "email": "bob@twokings.nl"
+                    }
+                ],
+                "description": "An extension to easily manage SEO title, meta description and OG tags.",
+                "support": {
+                    "source": "https://github.com/bobdenotter/seo/tree/0.9.6",
+                    "issues": "https://github.com/bobdenotter/seo/issues"
+                }
+            },
+            {
+                "name": "bobdenotter/seo",
+                "version": "0.9.7",
+                "version_normalized": "0.9.7.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bobdenotter/seo.git",
+                    "reference": "a6d5f3de5e606e047de29996a456855893ddb927"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bobdenotter/seo/zipball/a6d5f3de5e606e047de29996a456855893ddb927",
+                    "reference": "a6d5f3de5e606e047de29996a456855893ddb927",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": ">=2.1.0,<3.0.0"
+                },
+                "time": "2015-10-16T17:21:10+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-assets": "assets"
+                },
+                "autoload": {
+                    "files": [
+                        "init.php"
+                    ],
+                    "psr-4": {
+                        "Bolt\\Extension\\BobdenOtter\\Seo\\": ""
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Bob den Otter",
+                        "email": "bob@twokings.nl"
+                    }
+                ],
+                "description": "An extension to easily manage SEO title, meta description and OG tags.",
+                "support": {
+                    "source": "https://github.com/bobdenotter/seo/tree/0.9.7",
+                    "issues": "https://github.com/bobdenotter/seo/issues"
+                }
+            },
+            {
+                "name": "bobdenotter/seo",
+                "version": "0.9.8",
+                "version_normalized": "0.9.8.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bobdenotter/seo.git",
+                    "reference": "ec64e09bf3a10200aaa6f59b46c7e9e4010cce7a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bobdenotter/seo/zipball/ec64e09bf3a10200aaa6f59b46c7e9e4010cce7a",
+                    "reference": "ec64e09bf3a10200aaa6f59b46c7e9e4010cce7a",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": ">=2.1.0,<3.0.0"
+                },
+                "time": "2015-10-26T08:45:15+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-assets": "assets"
+                },
+                "autoload": {
+                    "files": [
+                        "init.php"
+                    ],
+                    "psr-4": {
+                        "Bolt\\Extension\\BobdenOtter\\Seo\\": ""
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Bob den Otter",
+                        "email": "bob@twokings.nl"
+                    }
+                ],
+                "description": "An extension to easily manage SEO title, meta description and OG tags.",
+                "support": {
+                    "source": "https://github.com/bobdenotter/seo/tree/0.9.8",
+                    "issues": "https://github.com/bobdenotter/seo/issues"
+                }
+            },
+            {
+                "name": "bobdenotter/seo",
+                "version": "0.9.9",
+                "version_normalized": "0.9.9.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bobdenotter/seo.git",
+                    "reference": "c6ab6fcbd18d99a3b470727c1a5fce178a10ae86"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bobdenotter/seo/zipball/c6ab6fcbd18d99a3b470727c1a5fce178a10ae86",
+                    "reference": "c6ab6fcbd18d99a3b470727c1a5fce178a10ae86",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": ">=2.1.0,<3.0.0"
+                },
+                "time": "2015-10-27T17:10:52+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-assets": "assets"
+                },
+                "autoload": {
+                    "files": [
+                        "init.php"
+                    ],
+                    "psr-4": {
+                        "Bolt\\Extension\\BobdenOtter\\Seo\\": ""
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Bob den Otter",
+                        "email": "bob@twokings.nl"
+                    }
+                ],
+                "description": "An extension to easily manage SEO title, meta description and OG tags.",
+                "support": {
+                    "source": "https://github.com/bobdenotter/seo/tree/0.9.9",
+                    "issues": "https://github.com/bobdenotter/seo/issues"
+                }
+            },
+            {
+                "name": "bobdenotter/seo",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bobdenotter/seo.git",
+                    "reference": "49f0fa303c58dc5def77e2b3ea4b732599c2f139"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bobdenotter/seo/zipball/49f0fa303c58dc5def77e2b3ea4b732599c2f139",
+                    "reference": "49f0fa303c58dc5def77e2b3ea4b732599c2f139",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": "^3.0"
+                },
+                "time": "2017-05-29T13:19:54+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-assets": "web",
+                    "bolt-class": "Bolt\\Extension\\BobdenOtter\\Seo\\SeoExtension"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Bolt\\Extension\\BobdenOtter\\Seo\\": "src"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Bob den Otter",
+                        "email": "bob@twokings.nl"
+                    }
+                ],
+                "description": "An extension to easily manage SEO title, meta description and OG tags.",
+                "support": {
+                    "source": "https://github.com/bobdenotter/seo/tree/1.0.0",
+                    "issues": "https://github.com/bobdenotter/seo/issues"
+                }
+            },
+            {
+                "name": "bobdenotter/seo",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bobdenotter/seo.git",
+                    "reference": "f8cda678f6cc192b72dc2ff2c78034c572d77274"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bobdenotter/seo/zipball/f8cda678f6cc192b72dc2ff2c78034c572d77274",
+                    "reference": "f8cda678f6cc192b72dc2ff2c78034c572d77274",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": "^3.0"
+                },
+                "time": "2017-06-21T12:46:10+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-assets": "web",
+                    "bolt-class": "Bolt\\Extension\\BobdenOtter\\Seo\\SeoExtension"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Bolt\\Extension\\BobdenOtter\\Seo\\": "src"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Bob den Otter",
+                        "email": "bob@twokings.nl"
+                    }
+                ],
+                "description": "An extension to easily manage SEO title, meta description and OG tags.",
+                "support": {
+                    "source": "https://github.com/bobdenotter/seo/tree/1.0.1",
+                    "issues": "https://github.com/bobdenotter/seo/issues"
+                }
+            },
+            {
+                "name": "bobdenotter/seo",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bobdenotter/seo.git",
+                    "reference": "1bc6274763f5ed3f7f30252d2cee4e7aa764b645"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bobdenotter/seo/zipball/1bc6274763f5ed3f7f30252d2cee4e7aa764b645",
+                    "reference": "1bc6274763f5ed3f7f30252d2cee4e7aa764b645",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": "^3.0"
+                },
+                "time": "2017-06-23T08:56:54+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-assets": "web",
+                    "bolt-class": "Bolt\\Extension\\BobdenOtter\\Seo\\SeoExtension"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Bolt\\Extension\\BobdenOtter\\Seo\\": "src"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Bob den Otter",
+                        "email": "bob@twokings.nl"
+                    }
+                ],
+                "description": "An extension to easily manage SEO title, meta description and OG tags.",
+                "support": {
+                    "source": "https://github.com/bobdenotter/seo/tree/1.0.2",
+                    "issues": "https://github.com/bobdenotter/seo/issues"
+                }
+            },
+            {
+                "name": "bobdenotter/seo",
+                "version": "1.0.3",
+                "version_normalized": "1.0.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bobdenotter/seo.git",
+                    "reference": "d16bc52d5647696454063b37e92febab1327f5d4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bobdenotter/seo/zipball/d16bc52d5647696454063b37e92febab1327f5d4",
+                    "reference": "d16bc52d5647696454063b37e92febab1327f5d4",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": "^3.0"
+                },
+                "time": "2017-07-04T09:49:10+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-assets": "web",
+                    "bolt-class": "Bolt\\Extension\\BobdenOtter\\Seo\\SeoExtension"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Bolt\\Extension\\BobdenOtter\\Seo\\": "src"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Bob den Otter",
+                        "email": "bob@twokings.nl"
+                    }
+                ],
+                "description": "An extension to easily manage SEO title, meta description and OG tags.",
+                "support": {
+                    "source": "https://github.com/bobdenotter/seo/tree/1.0.3",
+                    "issues": "https://github.com/bobdenotter/seo/issues"
+                }
+            },
+            {
+                "name": "bobdenotter/seo",
+                "version": "1.0.4",
+                "version_normalized": "1.0.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bobdenotter/seo.git",
+                    "reference": "79d49cab7b64d2094279d4e8977cbb5d5893a2e2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bobdenotter/seo/zipball/79d49cab7b64d2094279d4e8977cbb5d5893a2e2",
+                    "reference": "79d49cab7b64d2094279d4e8977cbb5d5893a2e2",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": "^3.0"
+                },
+                "time": "2017-09-07T15:42:24+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-assets": "web",
+                    "bolt-class": "Bolt\\Extension\\BobdenOtter\\Seo\\SeoExtension"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Bolt\\Extension\\BobdenOtter\\Seo\\": "src"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Bob den Otter",
+                        "email": "bob@twokings.nl"
+                    }
+                ],
+                "description": "An extension to easily manage SEO title, meta description and OG tags.",
+                "support": {
+                    "source": "https://github.com/bobdenotter/seo/tree/1.0.4",
+                    "issues": "https://github.com/bobdenotter/seo/issues"
+                }
+            },
+            {
+                "name": "bobdenotter/seo",
+                "version": "1.0.5",
+                "version_normalized": "1.0.5.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bobdenotter/seo.git",
+                    "reference": "96918c2c7fcfd01aaa01ba14480fd639dba3ba37"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bobdenotter/seo/zipball/96918c2c7fcfd01aaa01ba14480fd639dba3ba37",
+                    "reference": "96918c2c7fcfd01aaa01ba14480fd639dba3ba37",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": "^3.0"
+                },
+                "time": "2017-09-13T13:36:11+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-assets": "web",
+                    "bolt-class": "Bolt\\Extension\\BobdenOtter\\Seo\\SeoExtension"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Bolt\\Extension\\BobdenOtter\\Seo\\": "src"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Bob den Otter",
+                        "email": "bob@twokings.nl"
+                    }
+                ],
+                "description": "An extension to easily manage SEO title, meta description and OG tags.",
+                "support": {
+                    "source": "https://github.com/bobdenotter/seo/tree/1.0.5",
+                    "issues": "https://github.com/bobdenotter/seo/issues"
+                }
+            },
+            {
+                "name": "bobdenotter/seo",
+                "version": "1.0.6",
+                "version_normalized": "1.0.6.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bobdenotter/seo.git",
+                    "reference": "7ea8c3dbcb4a2c5e4fb92f292670ad946571485a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bobdenotter/seo/zipball/7ea8c3dbcb4a2c5e4fb92f292670ad946571485a",
+                    "reference": "7ea8c3dbcb4a2c5e4fb92f292670ad946571485a",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": "^3.0"
+                },
+                "time": "2017-11-02T13:10:16+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-assets": "web",
+                    "bolt-class": "Bolt\\Extension\\BobdenOtter\\Seo\\SeoExtension"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Bolt\\Extension\\BobdenOtter\\Seo\\": "src"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Bob den Otter",
+                        "email": "bob@twokings.nl"
+                    }
+                ],
+                "description": "An extension to easily manage SEO title, meta description and OG tags.",
+                "support": {
+                    "source": "https://github.com/bobdenotter/seo/tree/1.0.6",
+                    "issues": "https://github.com/bobdenotter/seo/issues"
+                }
+            },
+            {
+                "name": "bobdenotter/seo",
+                "version": "1.0.7",
+                "version_normalized": "1.0.7.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bobdenotter/seo.git",
+                    "reference": "1247de387c9d6cebf456606c266487e0c46a1a78"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bobdenotter/seo/zipball/1247de387c9d6cebf456606c266487e0c46a1a78",
+                    "reference": "1247de387c9d6cebf456606c266487e0c46a1a78",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": "^3.0"
+                },
+                "time": "2018-01-12T11:54:14+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-assets": "web",
+                    "bolt-class": "Bolt\\Extension\\BobdenOtter\\Seo\\SeoExtension"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Bolt\\Extension\\BobdenOtter\\Seo\\": "src"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Bob den Otter",
+                        "email": "bob@twokings.nl"
+                    }
+                ],
+                "description": "An extension to easily manage SEO title, meta description and OG tags.",
+                "support": {
+                    "source": "https://github.com/bobdenotter/seo/tree/1.0.7",
+                    "issues": "https://github.com/bobdenotter/seo/issues"
+                }
+            },
+            {
+                "name": "bobdenotter/seo",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bobdenotter/seo.git",
+                    "reference": "07f8b5b2ab1da80559d68028c2030ec0b7d5392b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bobdenotter/seo/zipball/07f8b5b2ab1da80559d68028c2030ec0b7d5392b",
+                    "reference": "07f8b5b2ab1da80559d68028c2030ec0b7d5392b",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": "^3.0"
+                },
+                "time": "2018-03-05T16:38:28+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-assets": "web",
+                    "bolt-class": "Bolt\\Extension\\BobdenOtter\\Seo\\SeoExtension"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Bolt\\Extension\\BobdenOtter\\Seo\\": "src"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Bob den Otter",
+                        "email": "bob@twokings.nl"
+                    }
+                ],
+                "description": "An extension to easily manage SEO title, meta description and OG tags.",
+                "support": {
+                    "source": "https://github.com/bobdenotter/seo/tree/1.1.0",
+                    "issues": "https://github.com/bobdenotter/seo/issues"
+                }
+            },
+            {
+                "name": "bobdenotter/seo",
+                "version": "1.1.1",
+                "version_normalized": "1.1.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bobdenotter/seo.git",
+                    "reference": "2a9823a3484c99a90f8ea903129c90c93092df2a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bobdenotter/seo/zipball/2a9823a3484c99a90f8ea903129c90c93092df2a",
+                    "reference": "2a9823a3484c99a90f8ea903129c90c93092df2a",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": "^3.0"
+                },
+                "time": "2019-09-20T11:16:52+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-assets": "web",
+                    "bolt-class": "Bolt\\Extension\\BobdenOtter\\Seo\\SeoExtension"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Bolt\\Extension\\BobdenOtter\\Seo\\": "src"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Bob den Otter",
+                        "email": "bob@twokings.nl"
+                    }
+                ],
+                "description": "An extension to easily manage SEO title, meta description and OG tags.",
+                "support": {
+                    "source": "https://github.com/bobdenotter/seo/tree/1.1.1",
+                    "issues": "https://github.com/bobdenotter/seo/issues"
+                }
+            },
+            {
+                "name": "bobdenotter/seo",
+                "version": "1.1.2",
+                "version_normalized": "1.1.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bobdenotter/seo.git",
+                    "reference": "7124892cfb709b7a6c7fe4a7f186488082f005bf"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bobdenotter/seo/zipball/7124892cfb709b7a6c7fe4a7f186488082f005bf",
+                    "reference": "7124892cfb709b7a6c7fe4a7f186488082f005bf",
+                    "shasum": ""
+                },
+                "require": {
+                    "bolt/bolt": "^3.0"
+                },
+                "time": "2020-06-05T12:22:27+00:00",
+                "type": "bolt-extension",
+                "extra": {
+                    "bolt-assets": "web",
+                    "bolt-class": "Bolt\\Extension\\BobdenOtter\\Seo\\SeoExtension"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Bolt\\Extension\\BobdenOtter\\Seo\\": "src"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Bob den Otter",
+                        "email": "bob@twokings.nl"
+                    }
+                ],
+                "description": "An extension to easily manage SEO title, meta description and OG tags.",
+                "support": {
+                    "source": "https://github.com/bobdenotter/seo/tree/1.1.2",
+                    "issues": "https://github.com/bobdenotter/seo/issues"
+                }
+            }
+        ]
+    }
+}
